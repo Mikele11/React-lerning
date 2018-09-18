@@ -21,9 +21,9 @@ I learned how to use [state](#state) for modifies data into a component
 
 ### Definitions
 
-##Props - receive data into component
+<a name="props"></a>Props - receive data into component
 
-##State - modifies and maintains states in component
+<a name="state"></a>State - modifies and maintains states in component
 
 ## Questions
 
