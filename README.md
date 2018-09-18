@@ -14,17 +14,21 @@
 [change state to click](https://github.com/Mikele11/React-lerning/commit/e15cf9ed779a51f3ca6642f5830298fc7b2b03ec) - We are changing this.props.value with this.state.value inside the tag, also changed onclick
 ## Learned
 
-#### 13.09.2018 — Tictactoe
+#### 13.09.2018 — tic-tac-toe
 I learned how to use [props](#props) to transfer data to a component
 
 I learned how to use [state](#state) for modifies data into a component
 
 ### Definitions
 
+#### 13.09.2018 — tic-tac-toe
+
 <a name="props"></a>Props - receive data into component
 
 <a name="state"></a>State - modifies and maintains states in component
 
 ## Questions
+
+#### 13.09.2018 — tic-tac-toe
 
 **There were no questions on this stage**
