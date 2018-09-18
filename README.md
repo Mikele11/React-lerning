@@ -15,12 +15,16 @@
 ## Learned
 
 #### 13.09.2018 — Tictactoe
-I learned how to use [props] to transfer data to a component(#props)
-I learned how to use [state] for modifies data into a component(#state)
+I learned how to use [props](#props) to transfer data to a component
+
+I learned how to use [state](#state) for modifies data into a component
 
 ### Definitions
-#props - receive data into component
-#state - modifies and maintains states in component
+
+##Props - receive data into component
+
+##State - modifies and maintains states in component
+
 ## Questions
 
 **There were no questions on this stage**
