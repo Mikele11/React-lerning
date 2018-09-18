@@ -9,10 +9,10 @@
 ## Learned
 
 #### 13.09.2018 — Tictactoe
-
+I learned how to use [props] to transfer data to a component(#props)
 
 ### Definitions
-
+#props - receive data into component
 
 ## Questions
 
