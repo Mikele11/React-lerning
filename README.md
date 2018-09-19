@@ -16,6 +16,8 @@
 #### 19.09.2018 — tic-tac-toe
 [transfer state to Square](https://github.com/Mikele11/React-lerning/commit/e0fe4dd6d53b6c551a4f845543e5dd6d4bb7488f) -Add initial data to component Board and trancfer state to Square
 
+[transferfunction control Square](https://github.com/Mikele11/React-lerning/commit/7ac990d48cdf6cf8aab004d0636542ea636461ac) -We handed fucntion onclick from Board to Square
+
 ## Learned
 
 #### 13.09.2018 — tic-tac-toe
@@ -43,4 +45,4 @@ I learned how to use [state](#state) for modifies data into a component
 
 #### 19.09.2018 — tic-tac-toe
 
-**There were no questions on this stage**
+I not complete understand how to pass a function from component to component
