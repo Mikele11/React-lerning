@@ -12,12 +12,18 @@
 [add initial data](https://github.com/Mikele11/React-lerning/commit/bf11d168d166e87f86aeed8203669ad89c98af14) - We fill the values of the buttons and add props to constructor
 
 [change state to click](https://github.com/Mikele11/React-lerning/commit/e15cf9ed779a51f3ca6642f5830298fc7b2b03ec) - We are changing this.props.value with this.state.value inside the tag, also changed onclick
+
+#### 19.09.2018 — tic-tac-toe
+[transfer state to Square](https://github.com/Mikele11/React-lerning/commit/e0fe4dd6d53b6c551a4f845543e5dd6d4bb7488f) -Add initial data to component Board and trancfer state to Square
+
 ## Learned
 
 #### 13.09.2018 — tic-tac-toe
 I learned how to use [props](#props) to transfer data to a component
 
 I learned how to use [state](#state) for modifies data into a component
+
+#### 19.09.2018 — tic-tac-toe
 
 ### Definitions
 
@@ -27,8 +33,14 @@ I learned how to use [state](#state) for modifies data into a component
 
 <a name="state"></a>State - modifies and maintains states in component
 
+#### 19.09.2018 — tic-tac-toe
+
 ## Questions
 
 #### 13.09.2018 — tic-tac-toe
+
+**There were no questions on this stage**
+
+#### 19.09.2018 — tic-tac-toe
 
 **There were no questions on this stage**
