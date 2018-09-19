@@ -20,6 +20,8 @@
 
 [change Square from class to function](https://github.com/Mikele11/React-lerning/commit/260d8bbb1d7639370cd8b95d70383c75f833f1b7) -We changed Square from class to function Component
 
+[add functional for another player](https://github.com/Mikele11/React-lerning/commit/8f41712c4e0ea161d3e65a216dffee597e7fd179) -We added functional of the game for another player
+
 ## Learned
 
 #### 13.09.2018 — tic-tac-toe
