@@ -16,7 +16,9 @@
 #### 19.09.2018 — tic-tac-toe
 [transfer state to Square](https://github.com/Mikele11/React-lerning/commit/e0fe4dd6d53b6c551a4f845543e5dd6d4bb7488f) -Add initial data to component Board and trancfer state to Square
 
-[transferfunction control Square](https://github.com/Mikele11/React-lerning/commit/7ac990d48cdf6cf8aab004d0636542ea636461ac) -We handed fucntion onclick from Board to Square
+[transfer function control Square](https://github.com/Mikele11/React-lerning/commit/7ac990d48cdf6cf8aab004d0636542ea636461ac) -We handed fucntion onclick from Board to Square
+
+[change Square from class to function](https://github.com/Mikele11/React-lerning/commit/260d8bbb1d7639370cd8b95d70383c75f833f1b7) -We changed Square from class to function Component
 
 ## Learned
 
@@ -24,6 +26,8 @@
 I learned how to use [props](#props) to transfer data to a component
 
 I learned how to use [state](#state) for modifies data into a component
+
+I learned what a [functional](#functional) component is
 
 #### 19.09.2018 — tic-tac-toe
 
@@ -36,6 +40,8 @@ I learned how to use [state](#state) for modifies data into a component
 <a name="state"></a>State - modifies and maintains states in component
 
 #### 19.09.2018 — tic-tac-toe
+
+<a name="functional"></a>Functional Component - This component is written in the form of a function in which only render
 
 ## Questions
 
