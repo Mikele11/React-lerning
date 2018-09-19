@@ -22,6 +22,8 @@
 
 [add functional for another player](https://github.com/Mikele11/React-lerning/commit/8f41712c4e0ea161d3e65a216dffee597e7fd179) -We added functional of the game for another player
 
+[add functionality to identify the winner](https://github.com/Mikele11/React-lerning/commits/tic-tac-toe-19-09-2018) -We added functionality to identify the winner of the game
+
 ## Learned
 
 #### 13.09.2018 — tic-tac-toe
