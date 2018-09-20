@@ -31,9 +31,8 @@ I learned how to use [props](#props) to transfer data to a component
 
 I learned how to use [state](#state) for modifies data into a component
 
-I learned what a [functional](#functional) component is
-
 #### 19.09.2018 — tic-tac-toe
+I learned what a [functional](#functional) component is
 
 ### Definitions
 
