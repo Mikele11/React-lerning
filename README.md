@@ -38,13 +38,13 @@ I learned what a [functional](#functional) component is
 
 #### 13.09.2018 — tic-tac-toe
 
-<a name="props"></a>Props - receive data into component
+<a name="props"></a>Props - props it is short from the property. Each component has its own properties and we can transfer data to these properties for each component and read this data in the component using **this.props**
 
-<a name="state"></a>State - modifies and maintains states in component
+<a name="state"></a>State - The state is used to support and modify data in the component. The component that manipulates the data gets it from outside and when they are made with actions inside the component, they are written into the state and then manipulated by them. You can access the state through **this.state**. You can also make changes to the state by using **setState**, When using which redraws DOM
 
 #### 19.09.2018 — tic-tac-toe
 
-<a name="functional"></a>Functional Component - This component is written in the form of a function in which only render
+<a name="functional"></a>Functional Component - This component is written in the form of a function in which only render. In functional components, you can not use a state
 
 ## Questions
 
