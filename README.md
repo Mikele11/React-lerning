@@ -12,6 +12,18 @@
 [add initial data](https://github.com/Mikele11/React-lerning/commit/bf11d168d166e87f86aeed8203669ad89c98af14) - We fill the values of the buttons and add props to constructor
 
 [change state to click](https://github.com/Mikele11/React-lerning/commit/e15cf9ed779a51f3ca6642f5830298fc7b2b03ec) - We are changing this.props.value with this.state.value inside the tag, also changed onclick
+
+#### 19.09.2018 — tic-tac-toe
+[transfer state to Square](https://github.com/Mikele11/React-lerning/commit/e0fe4dd6d53b6c551a4f845543e5dd6d4bb7488f) -Add initial data to component Board and trancfer state to Square
+
+[transfer function control Square](https://github.com/Mikele11/React-lerning/commit/7ac990d48cdf6cf8aab004d0636542ea636461ac) -We handed fucntion onclick from Board to Square
+
+[change Square from class to function](https://github.com/Mikele11/React-lerning/commit/260d8bbb1d7639370cd8b95d70383c75f833f1b7) -We changed Square from class to function Component
+
+[add functional for another player](https://github.com/Mikele11/React-lerning/commit/8f41712c4e0ea161d3e65a216dffee597e7fd179) -We added functional of the game for another player
+
+[add functionality to identify the winner](https://github.com/Mikele11/React-lerning/commits/tic-tac-toe-19-09-2018) -We added functionality to identify the winner of the game
+
 ## Learned
 
 #### 13.09.2018 — tic-tac-toe
@@ -19,16 +31,27 @@ I learned how to use [props](#props) to transfer data to a component
 
 I learned how to use [state](#state) for modifies data into a component
 
+#### 19.09.2018 — tic-tac-toe
+I learned what a [functional](#functional) component is
+
 ### Definitions
 
 #### 13.09.2018 — tic-tac-toe
 
-<a name="props"></a>Props - receive data into component
+<a name="props"></a>Props - props it is short from the property. Each component has its own properties and we can transfer data to these properties for each component and read this data in the component using **this.props**
 
-<a name="state"></a>State - modifies and maintains states in component
+<a name="state"></a>State - The state is used to support and modify data in the component. The component that manipulates the data gets it from outside and when they are made with actions inside the component, they are written into the state and then manipulated by them. You can access the state through **this.state**. You can also make changes to the state by using **setState**, When using which redraws DOM
+
+#### 19.09.2018 — tic-tac-toe
+
+<a name="functional"></a>Functional Component - This component is written in the form of a function in which only render. In functional components, you can not use a state
 
 ## Questions
 
 #### 13.09.2018 — tic-tac-toe
 
 **There were no questions on this stage**
+
+#### 19.09.2018 — tic-tac-toe
+
+I not complete understand how to pass a function from component to component
