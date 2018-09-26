@@ -7,6 +7,8 @@
 
 [clean project](https://github.com/Mikele11/React-lerning/commit/1b90bffbbf75930137c510b1603decfeebd3d7e4) - clean project
 
+[add Person component](https://github.com/Mikele11/React-lerning/commit/9ea3e7732a19eaa50614692ed4c4a4b97ec3b76a) - add component Person
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
