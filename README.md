@@ -31,6 +31,8 @@
 
 [add dynamic content](https://github.com/Mikele11/React-lerning/commit/b246ce3d4490b082d013020e1660fd0fda53018f) -add dynamic content
 
+[outputing list](https://github.com/Mikele11/React-lerning/commit/5d2fb883ba6d380b1663d3e727bc3d30a1de4c71) -add outputing list
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
