@@ -33,6 +33,8 @@
 
 [outputing list](https://github.com/Mikele11/React-lerning/commit/5d2fb883ba6d380b1663d3e727bc3d30a1de4c71) -add outputing list
 
+[add delete handler](https://github.com/Mikele11/React-lerning/commit/c005af2c4f28c23c70f5f207fd8e6845340f430a) -add delete Person handler 
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
