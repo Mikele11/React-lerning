@@ -29,6 +29,8 @@
 
 [add conditional render](https://github.com/Mikele11/React-lerning/commit/b15393f54536422c98556081ed5eba712584a500) -add conditional render
 
+[add dynamic content](https://github.com/Mikele11/React-lerning/commit/b246ce3d4490b082d013020e1660fd0fda53018f) -add dynamic content
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
