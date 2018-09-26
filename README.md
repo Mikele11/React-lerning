@@ -23,6 +23,8 @@
 
 [add changed handler ](https://github.com/Mikele11/React-lerning/commit/6b8564fb0d7d918afef2bdd02b7e9f449db0d504) -add changed handler and transfer method to Person
 
+[add css to Person ](https://github.com/Mikele11/React-lerning/commit/e582d01f6cb475b327c885eb775ccbbb7aa2cd9b) -add css to Person
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
