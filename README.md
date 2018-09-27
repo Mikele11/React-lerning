@@ -43,6 +43,8 @@
 
 [fix style and view](https://github.com/Mikele11/React-lerning/commit/cbd7524a1e9d4cf6c2290767d2974c1e5a5aacbf) -fix style and view
 
+[dynamic style](https://github.com/Mikele11/React-lerning/commit/30b55c6af78c213f428d0558ae7fcdda3f3b8680) -dynamic style
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
