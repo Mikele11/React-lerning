@@ -15,8 +15,6 @@
 
 [add state to Person](https://github.com/Mikele11/React-lerning/commit/8dd332540e753f451bde0736c5217bd2b4a3289c) - add state to component Person
 
-[add handle button to Person](https://github.com/Mikele11/React-lerning/commit/1ff863606a8c52a37f887d765af029b30b2c2c28) -add handle button to Person
-
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
