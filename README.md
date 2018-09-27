@@ -41,11 +41,15 @@
 
 [fix changed handler](https://github.com/Mikele11/React-lerning/commit/662e6f120ce58e8c17192f55339fd29b55546428) -fix changed handler
 
+#### 27.09.2018 — react-complete-guide
+
 [fix style and view](https://github.com/Mikele11/React-lerning/commit/cbd7524a1e9d4cf6c2290767d2974c1e5a5aacbf) -fix style and view
 
 [dynamic style](https://github.com/Mikele11/React-lerning/commit/30b55c6af78c213f428d0558ae7fcdda3f3b8680) -dynamic style
 
 [dynamic style with conditional](https://github.com/Mikele11/React-lerning/commit/90f0676f3f89070673ec78c77a42cf52be2bf9d2) -dynamic style with conditional
+
+[using module radium](https://github.com/Mikele11/React-lerning/commit/808c34218251c0cfc353f0d6ba1434a6bf1096dc) -using module radium
 
 ## Learned
 
