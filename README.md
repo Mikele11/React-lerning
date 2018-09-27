@@ -55,6 +55,8 @@
 
 [use css module](https://github.com/Mikele11/React-lerning/commit/700656e794fb83442a6d959e4b24d8b0dd2b0a61) -add css module
 
+[add preudo selectors](https://github.com/Mikele11/React-lerning/commit/f7d88d37e91228d4ea4f784bd6b40384be3b3979) -add preudo selectors
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
@@ -73,6 +75,11 @@ I learned how to use [inline](#inline) style in jsx
 
 I learned how to use [conditional](#conditional) render
 
+#### 27.09.2018 — react-complete-guide
+
+I learned what a [pseudo selector](#pseudo selector) is
+
+
 ### Definitions
 
 #### 25.09.2018 — react-complete-guide
@@ -90,6 +97,11 @@ I learned how to use [conditional](#conditional) render
 <a name="inline"></a>Inline style - This is a description of the styles inside the component
 
 <a name="conditional"></a>Conditional render - conditional rendering in the react works like you do in javascript. Here you need the boolean values and unary operator **?**
+
+#### 27.09.2018 — react-complete-guide
+
+<a name="pseudo selector"></a>Pseudo selector - Pseudo selectors are an alternative to selectors in the radium module. We declare the global component and then work with the pseudo selectors of this component
+
 
 ## Questions
 
