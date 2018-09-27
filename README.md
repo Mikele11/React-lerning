@@ -41,6 +41,8 @@
 
 [fix changed handler](https://github.com/Mikele11/React-lerning/commit/662e6f120ce58e8c17192f55339fd29b55546428) -fix changed handler
 
+[fix style and view](https://github.com/Mikele11/React-lerning/commit/cbd7524a1e9d4cf6c2290767d2974c1e5a5aacbf) -fix style and view
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
