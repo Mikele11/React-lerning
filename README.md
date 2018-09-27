@@ -57,6 +57,8 @@
 
 [add preudo selectors](https://github.com/Mikele11/React-lerning/commit/f7d88d37e91228d4ea4f784bd6b40384be3b3979) -add preudo selectors
 
+[add media queries](https://github.com/Mikele11/React-lerning/commit/5072eb295cba96591ce051b934ead08496fee64a) -add media queries
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
