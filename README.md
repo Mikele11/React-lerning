@@ -21,8 +21,6 @@
 
 [transfer of methods between components](https://github.com/Mikele11/React-lerning/commit/2466e4965b883e288a1046632ebc47f4c5ad0cb4) -transfer of methods between components
 
-[add changed handler ](https://github.com/Mikele11/React-lerning/commit/6b8564fb0d7d918afef2bdd02b7e9f449db0d504) -add changed handler and transfer method to Person
-
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
