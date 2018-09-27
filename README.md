@@ -19,8 +19,6 @@
 
 [add manipulate state](https://github.com/Mikele11/React-lerning/commit/ff2a74e7ee8da73910b7a8dceae7d1059d67a46f) -add setState for changed state
 
-[transfer of methods between components](https://github.com/Mikele11/React-lerning/commit/2466e4965b883e288a1046632ebc47f4c5ad0cb4) -transfer of methods between components
-
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
