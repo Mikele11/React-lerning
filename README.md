@@ -27,8 +27,6 @@
 
 [add inline style to button](https://github.com/Mikele11/React-lerning/commit/cf521b6e888c3968361e2459b669fc2719002bd4) -add inline style to button
 
-[add conditional render](https://github.com/Mikele11/React-lerning/commit/b15393f54536422c98556081ed5eba712584a500) -add conditional render
-
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
@@ -45,8 +43,6 @@ I learned how to use [setState](#setState) for modifies data into a component
 
 I learned how to use [inline](#inline) style in jsx
 
-I learned how to use [conditional](#conditional) render
-
 ### Definitions
 
 #### 25.09.2018 — react-complete-guide
@@ -62,8 +58,6 @@ I learned how to use [conditional](#conditional) render
 <a name="setState"></a>setState - This is a function for changing a state that redraws changes to DOM
 
 <a name="inline"></a>Inline style - This is a description of the styles inside the component
-
-<a name="conditional"></a>Conditional render - conditional rendering in the react works like you do in javascript. Here you need the boolean values and unary operator **?**
 
 ## Questions
 
