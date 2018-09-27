@@ -82,7 +82,7 @@ class App extends Component {
         <p>This is really working!</p>
         <button
           style={style} 
-          onClick={() => this.tooglePersonsHandler()}>Switch Name</button>
+          onClick={this.tooglePersonsHandler}>Toogle Persons</button>
           {persons}  
       </div>
     );
