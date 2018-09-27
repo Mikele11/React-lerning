@@ -39,8 +39,6 @@
 
 [add key to list](https://github.com/Mikele11/React-lerning/commit/ca1f8bcee9f43f6da1153262e7359e13bd7b4be2) -add key to list
 
-[fix changed handler](https://github.com/Mikele11/React-lerning/commit/662e6f120ce58e8c17192f55339fd29b55546428) -fix changed handler
-
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
