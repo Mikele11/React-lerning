@@ -53,6 +53,8 @@
 
 [radium with media queries](https://github.com/Mikele11/React-lerning/commit/c19e13244f686d2a0fa6cc31d7f0d32ad33cb97d) -radium with media queries
 
+[use css module](https://github.com/Mikele11/React-lerning/commit/700656e794fb83442a6d959e4b24d8b0dd2b0a61) -add css module
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
