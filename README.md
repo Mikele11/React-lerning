@@ -45,6 +45,8 @@
 
 [dynamic style](https://github.com/Mikele11/React-lerning/commit/30b55c6af78c213f428d0558ae7fcdda3f3b8680) -dynamic style
 
+[dynamic style with conditional](https://github.com/Mikele11/React-lerning/commit/90f0676f3f89070673ec78c77a42cf52be2bf9d2) -dynamic style with conditional
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
