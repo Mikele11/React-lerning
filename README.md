@@ -33,9 +33,7 @@
 
 [outputing list](https://github.com/Mikele11/React-lerning/commit/5d2fb883ba6d380b1663d3e727bc3d30a1de4c71) -add outputing list
 
-[add delete handler](https://github.com/Mikele11/React-lerning/commit/c005af2c4f28c23c70f5f207fd8e6845340f430a) -add delete Person handler
-
-[immutable state](https://github.com/Mikele11/React-lerning/commit/7c440a3752bdf068a545f8e426f89f547ee0675c) -change state to immutable state
+[add delete handler](https://github.com/Mikele11/React-lerning/commit/c005af2c4f28c23c70f5f207fd8e6845340f430a) -add delete Person handler 
 
 ## Learned
 
