@@ -51,6 +51,8 @@
 
 [using module radium](https://github.com/Mikele11/React-lerning/commit/808c34218251c0cfc353f0d6ba1434a6bf1096dc) -using module radium
 
+[radium with media queries](https://github.com/Mikele11/React-lerning/commit/c19e13244f686d2a0fa6cc31d7f0d32ad33cb97d) -radium with media queries
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
