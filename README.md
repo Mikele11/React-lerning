@@ -67,6 +67,8 @@
 
 [stateless and statefull component](https://github.com/Mikele11/React-lerning/commit/c9a816781c7c6fc574be2644a33f5ea3a44bccc7) -stateless and statefull component
 
+[converting stateless to stateful component](https://github.com/Mikele11/React-lerning/commit/26e77dc3c5d0f03eba3894446dd128ae134bb1e0) -converting stateless to stateful component
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
