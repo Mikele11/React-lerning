@@ -69,6 +69,8 @@
 
 [converting stateless to stateful component](https://github.com/Mikele11/React-lerning/commit/26e77dc3c5d0f03eba3894446dd128ae134bb1e0) -converting stateless to stateful component
 
+[creation lifecycle of components](https://github.com/Mikele11/React-lerning/commit/82948e800051cd7faefe654f99154dcb1cd3964d) -creation lifecycle of componentst
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
