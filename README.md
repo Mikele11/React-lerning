@@ -71,6 +71,8 @@
 
 [creation lifecycle of components](https://github.com/Mikele11/React-lerning/commit/82948e800051cd7faefe654f99154dcb1cd3964d) -creation lifecycle of componentst
 
+[updating lifecycle of components](https://github.com/Mikele11/React-lerning/commit/5feed95ce58de1b7776b10eaee79f761f7f09cb5) -updating lifecycle of components
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
