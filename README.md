@@ -73,7 +73,9 @@
 
 [updating lifecycle of components](https://github.com/Mikele11/React-lerning/commit/5feed95ce58de1b7776b10eaee79f761f7f09cb5) -updating lifecycle of components
 
-[triggered by state changes]https://github.com/Mikele11/React-lerning/commit/e6aad103f29fdb0c78ce292cc1fe17369a716e07) -triggered by state changes
+[triggered by state changes](https://github.com/Mikele11/React-lerning/commit/e6aad103f29fdb0c78ce292cc1fe17369a716e07) -triggered by state changes
+
+[add Purecomponent](https://github.com/Mikele11/React-lerning/commit/6c779ad6a76c5f3420dea37564a4d9fb61bad1d4) -add Purecomponent
 
 ## Learned
 
