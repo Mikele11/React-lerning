@@ -85,6 +85,8 @@
 
 [passing props](https://github.com/Mikele11/React-lerning/commit/a3d35d89ed5ce759ea6f3b63140b3b88443481d1) -passing props to hoc
 
+[using setState corectly](https://github.com/Mikele11/React-lerning/commit/1c620726435e2450027fdc345645c96ddee5bbde) -using setState corectly
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
