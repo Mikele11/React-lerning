@@ -61,6 +61,8 @@
 
 [add component ErrorBoundary](https://github.com/Mikele11/React-lerning/commit/2470ff8d2c707d372370956ab848cdb25c0f9929) -add component ErrorBoundary
 
+[change file structure](https://github.com/Mikele11/React-lerning/commit/1cbe20496fec9d363cbbccccb3fed5d3c8dc4fb4) -change file structure
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
