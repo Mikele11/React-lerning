@@ -65,6 +65,8 @@
 
 [spliting App into Components](https://github.com/Mikele11/React-lerning/commit/104d154bcfdcd0bffc4571586bed22735c7d62d6) -spliting App into Components
 
+[stateless and statefull component](https://github.com/Mikele11/React-lerning/commit/c9a816781c7c6fc574be2644a33f5ea3a44bccc7) -stateless and statefull component
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
@@ -86,6 +88,8 @@ I learned how to use [conditional](#conditional) render
 #### 27.09.2018 — react-complete-guide
 
 I learned what a [pseudo](#pseudo) selector is
+
+I learned what a [stateless](#stateless) and stateful component is
 
 
 ### Definitions
@@ -109,6 +113,8 @@ I learned what a [pseudo](#pseudo) selector is
 #### 27.09.2018 — react-complete-guide
 
 <a name="pseudo"></a>Pseudo selector - Pseudo selectors are an alternative to selectors in the radium module. We declare the global component and then work with the pseudo selectors of this component
+
+<a name="stateless"></a>Stateless and Stateful components -Stateless components is components without state. These components take data, but do not manipulate them. Stateful components - have a state and manipulate data.
 
 
 ## Questions
