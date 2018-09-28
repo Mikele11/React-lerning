@@ -63,6 +63,8 @@
 
 [change file structure](https://github.com/Mikele11/React-lerning/commit/1cbe20496fec9d363cbbccccb3fed5d3c8dc4fb4) -change file structure
 
+[spliting App into Components](https://github.com/Mikele11/React-lerning/commit/104d154bcfdcd0bffc4571586bed22735c7d62d6) -spliting App into Components
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
