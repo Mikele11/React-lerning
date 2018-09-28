@@ -87,6 +87,8 @@
 
 [using setState corectly](https://github.com/Mikele11/React-lerning/commit/1c620726435e2450027fdc345645c96ddee5bbde) -using setState corectly
 
+[add validation props](https://github.com/Mikele11/React-lerning/commit/be121e2a1fcdbcdc108a6ee8d67d76e94acd1c59) -add validation props using PropTypes
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
