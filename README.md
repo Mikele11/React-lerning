@@ -77,6 +77,8 @@
 
 [add Purecomponent](https://github.com/Mikele11/React-lerning/commit/6c779ad6a76c5f3420dea37564a4d9fb61bad1d4) -add Purecomponent
 
+[add hoc Component Aux1](https://github.com/Mikele11/React-lerning/commit/e79660a2be9be975163586504530afe332011c2a) -add hoc Component Aux1
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
@@ -100,6 +102,8 @@ I learned how to use [conditional](#conditional) render
 I learned what a [pseudo](#pseudo) selector is
 
 I learned what a [stateless](#stateless) and stateful component is
+
+I learned what a [hoc](#hoc) component is
 
 
 ### Definitions
@@ -125,6 +129,8 @@ I learned what a [stateless](#stateless) and stateful component is
 <a name="pseudo"></a>Pseudo selector - Pseudo selectors are an alternative to selectors in the radium module. We declare the global component and then work with the pseudo selectors of this component
 
 <a name="stateless"></a>Stateless and Stateful components -Stateless components is components without state. These components take data, but do not manipulate them. Stateful components - have a state and manipulate data.
+
+<a name="hoc"></a>HOC(higher-order components) -Higher-order components take the component as data and return the component transforming it.
 
 
 ## Questions

@@ -4,7 +4,6 @@ import classes from './Cockpit.css';
 
 const cockpit = (props) => {
     const assignedClasses = [];
-    console.log('===>>>',classes);
     let btnClass = '';
     if (props.showPersons) {
         btnClass = classes.Red 
@@ -19,11 +18,12 @@ const cockpit = (props) => {
 
     return (
         <Aux1>
-            <h1>{props.appTitle}</h1>
-            <p className = {assignedClasses.join(' ')}>This is really working!</p>
-            <button
-            className={btnClass} 
-            onClick={props.clicked}>Toogle Persons</button>
+            <div className={classes.Cockpit}>
+                <p className = {assignedClasses.join(' ')}>Its realy works</p>
+                <button 
+                    className = {btnClass}
+                    onClick={props.clicked}>Toogle person</button>    
+            </div>
         </Aux1>
     );
 }
