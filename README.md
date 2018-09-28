@@ -79,6 +79,8 @@
 
 [add hoc Component Aux1](https://github.com/Mikele11/React-lerning/commit/e79660a2be9be975163586504530afe332011c2a) -add hoc Component Aux1
 
+[add hoc Component Aux1 desc](https://github.com/Mikele11/React-lerning/commit/44f89dae45f5464d7119aeb5e2e1f453e862f1cb) -add hoc Component Aux1 desc and fix style
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
