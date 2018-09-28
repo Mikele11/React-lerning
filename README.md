@@ -79,7 +79,7 @@ I learned how to use [conditional](#conditional) render
 
 #### 27.09.2018 — react-complete-guide
 
-I learned what a [pseudo selector](#pseudo selector) is
+I learned what a [pseudo](#pseudo) selector is
 
 
 ### Definitions
@@ -102,7 +102,7 @@ I learned what a [pseudo selector](#pseudo selector) is
 
 #### 27.09.2018 — react-complete-guide
 
-<a name="pseudo selector"></a>Pseudo selector - Pseudo selectors are an alternative to selectors in the radium module. We declare the global component and then work with the pseudo selectors of this component
+<a name="pseudo"></a>Pseudo selector - Pseudo selectors are an alternative to selectors in the radium module. We declare the global component and then work with the pseudo selectors of this component
 
 
 ## Questions
