@@ -89,6 +89,8 @@
 
 [add validation props](https://github.com/Mikele11/React-lerning/commit/be121e2a1fcdbcdc108a6ee8d67d76e94acd1c59) -add validation props using PropTypes
 
+[using refs](https://github.com/Mikele11/React-lerning/commit/ca92af91b85b7aaaeb279d7b2c7cdfb790747c57) -using refs
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
