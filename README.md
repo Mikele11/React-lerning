@@ -59,6 +59,8 @@
 
 [add media queries](https://github.com/Mikele11/React-lerning/commit/5072eb295cba96591ce051b934ead08496fee64a) -add media queries
 
+[add component ErrorBoundary](https://github.com/Mikele11/React-lerning/commit/2470ff8d2c707d372370956ab848cdb25c0f9929) -add component ErrorBoundary
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
