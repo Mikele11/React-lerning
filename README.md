@@ -91,6 +91,8 @@
 
 [using refs](https://github.com/Mikele11/React-lerning/commit/ca92af91b85b7aaaeb279d7b2c7cdfb790747c57) -using refs
 
+[context api](https://github.com/Mikele11/React-lerning/commit/473121db28c605a9841492c0db388ebfe7bffbcb) -context api
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
@@ -116,6 +118,8 @@ I learned what a [pseudo](#pseudo) selector is
 I learned what a [stateless](#stateless) and stateful component is
 
 I learned what a [hoc](#hoc) component is
+
+I learned what a [context](#context) is
 
 
 ### Definitions
@@ -144,10 +148,15 @@ I learned what a [hoc](#hoc) component is
 
 <a name="hoc"></a>HOC(higher-order components) -Higher-order components take the component as data and return the component transforming it.
 
+<a name="context"></a>Context - Context is designed to share data that can be considered global for a tree of React components, such as the current authenticated user, theme, or preferred language.
 
 ## Questions
 
 #### 25.09.2018 — react-complete-guide
 
 **There were no questions on this stage**
+
+#### 27.09.2018 — react-complete-guide
+
+I did not quite understand how to use refs and context api
 
