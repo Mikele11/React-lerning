@@ -1,64 +1,73 @@
 import React, { PureComponent } from 'react';
-import classes from './App.css';
+import classes from '../containers/App.css';
 import Persons from '../components/Persons/Persons'
 import Cockpit from '../components/Cockpit/Cockpit'
 import Aux1 from '../hoc/Aux1'
 import withClass from '../hoc/withClass'
 
+export const AuthContext = React.createContext(false);
+
 class App extends PureComponent {
   constructor(props){
     super(props)
-    console.log('[App js] inside Constructor',props);
+    console.log('App js inside constructor',props);
     this.state = {
-      persons: [
+      persons:[
         { id: '1', name: 'Max', age: 28 },
         { id: '2', name: 'Menu', age: 29 },
         { id: '3', name: 'Stephanie', age: 26 }
       ],
-      otherState: 'some value',
-      showPersons: false,
-      toogleClicked:0
+      showPersons:false,
+      toogleClicked:0,
+      authenticated:false
     }
   }
 
-  componentWillMount(){
-    console.log('[App js] inside componentWillMount');
-  }
-
   componentDidMount(){
-    console.log('[App js] inside componentDidMount');
+    console.log('[App js] inside componentdidmount');
   }
-
-  componentWillReceiveProps (nextProps){
-      console.log('[Update App js] inside component componentWillReceiveProps',nextProps);
-  }
-/*  
+  /*
 
   shouldComponentUpdate(nextProps,nextState){
-      console.log('[Update App js] inside component shouldComponentUpdate',nextProps,nextState);
-      return nextState.persons !== this.state.persons || 
-      nextState.showPersons !== this.state.showPersons;
+    console.log('Update App js inside component shouldupdate props',nextProps,nextState);
+    return nextState.persons!== this.state.persons;
   }
 */
-  componentWillUpdate(nextProps,nextState){
-      console.log('[Update App js] inside component componentWillUpdate',nextProps,nextState);
+
+  static getDerivedStateFromProps(nextProps,prevState) {
+    console.log('Update [App js] inside component getDerivedStateFromProps props',
+    nextProps,
+    prevState
+    );
+    return prevState;
+  }
+
+  getSnapshotBeforeUpdate(){
+    console.log('Update [App js] inside component getDerivedStateFromProps props');
+    return null;
   }
 
   componentDidUpdate(nextProps,nextState){
-      console.log('[Update App js] inside component componentDidUpdate',nextProps,nextState);
+    console.log('Update [App js]inside component didupdate props',nextProps,nextState);
   }
 
-  switchNameHandler = (newName) => {
+  switchNameHandler = (newName) =>{
     this.setState({
-      persons: [
-        { name: newName, age: 28 },
-        { name: 'Menu', age: 29 },
-        { name: 'Stephanie', age: 27 }
-      ]
+      persons:[
+        {name:newName,age:'29'},
+        {name:'Sophi', age:'25'}
+      ],
+      showPerson:false,
     });
   }
 
-  nameChangedHandler = (event, id) => {
+  deletePersonHandler = (personIndex) =>{
+    const persons=this.state.persons.slice();
+    persons.splice(personIndex,1);
+    this.setState({persons:persons});
+  }
+
+  nameChangedHandler = (event, id) =>{
     const personIndex = this.state.persons.findIndex(p=>{
       return p.id === id
     })
@@ -68,12 +77,6 @@ class App extends PureComponent {
     person.name = event.target.value;
     const persons = [...this.state.persons];
     persons[personIndex]=person;
-    this.setState({persons:persons});
-  }
-
-  deletePersonHandler = (personIndex) => {
-    const persons = [...this.state.persons];
-    persons.splice(personIndex,1);
     this.setState({persons:persons});
   }
 
@@ -87,31 +90,38 @@ class App extends PureComponent {
     });
   }
 
-  render() {
-    console.log('[App js] inside render');
-    let persons = null;
-    if (this.state.showPersons) {
-     persons = <Persons 
-          persons={this.state.persons}
-          clicked={this.deletePersonHandler}
-          changed={this.nameChangedHandler} />;
-    }
+  loginHandler = () => {
+    this.setState({authenticated:true});
+  }
 
+  render() {
+    let persons = null;
+    console.log('111111showperson',this.state.showPersons);
+    if (this.state.showPerson) {
+      console.log('showperson',this.state.showPersons);
+      persons = <Persons 
+          persons={this.state.persons} 
+          clicked={this.deletePersonHandler} 
+          changed={this.nameChangedHandler}
+        />
+    }
     return (
       <Aux1>
         <button onClick={()=>{
-          this.setState({showPersons:true},function(){
+          this.setState({ showPersons: true },function () {
             console.log('showperson',this.state.showPersons);
           })
           }}>Show Perosns
         </button>
-        <Cockpit
-          appTitle ={this.props.title}
-          showPersons = {this.state.showPersons } 
-          persons = {this.state.persons }
-          clicked = {this.tooglePersonsHandler}
-        />
-        {persons}  
+          <Cockpit
+            showPersons = {this.state.showPersons } 
+            persons = {this.state.persons }
+            login = {this.loginHandler }
+            clicked = {this.tooglePersonsHandler}
+          />
+          <AuthContext.Provider value={this.state.authenticated}>
+            {persons}
+          </AuthContext.Provider>
       </Aux1>
     );
   }
