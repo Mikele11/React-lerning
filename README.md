@@ -17,6 +17,8 @@
 
 [calculate ingredients](https://github.com/Mikele11/React-lerning/commit/df201e71682ea38928a079d3965c9d772ff27ec4) - calculate ingredients
 
+[add build controller](https://github.com/Mikele11/React-lerning/commit/463483d24d87de7f7a2c170e59cb14a5bf0cd315) - add build controller
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
