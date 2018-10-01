@@ -15,6 +15,8 @@
 
 [add outputting ingradients dynamacally](https://github.com/Mikele11/React-lerning/commit/da9adb690ed2eef871fd13360989b1e1198996c5) - add outputting ingradients dynamacally
 
+[calculate ingredients](https://github.com/Mikele11/React-lerning/commit/df201e71682ea38928a079d3965c9d772ff27ec4) - calculate ingredients
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
