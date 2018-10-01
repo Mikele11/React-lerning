@@ -9,6 +9,8 @@
 
 [add BurgerBuilder Container](https://github.com/Mikele11/React-lerning/commit/9c68e1a98f2de64d15b287f7303b7d85fd2f2bb5) - add BurgerBuilder Container, Layout and css
 
+[add dynamic ingradient component](https://github.com/Mikele11/React-lerning/commit/9e0d69043c77939fc3b94e19fb0e327f0f9310d7) - add dynamic ingradient component
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
