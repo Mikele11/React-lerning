@@ -41,6 +41,58 @@
 
 [fix changed handler](https://github.com/Mikele11/React-lerning/commit/662e6f120ce58e8c17192f55339fd29b55546428) -fix changed handler
 
+#### 27.09.2018 — react-complete-guide
+
+[fix style and view](https://github.com/Mikele11/React-lerning/commit/cbd7524a1e9d4cf6c2290767d2974c1e5a5aacbf) -fix style and view
+
+[dynamic style](https://github.com/Mikele11/React-lerning/commit/30b55c6af78c213f428d0558ae7fcdda3f3b8680) -dynamic style
+
+[dynamic style with conditional](https://github.com/Mikele11/React-lerning/commit/90f0676f3f89070673ec78c77a42cf52be2bf9d2) -dynamic style with conditional
+
+[using module radium](https://github.com/Mikele11/React-lerning/commit/808c34218251c0cfc353f0d6ba1434a6bf1096dc) -using module radium
+
+[radium with media queries](https://github.com/Mikele11/React-lerning/commit/c19e13244f686d2a0fa6cc31d7f0d32ad33cb97d) -radium with media queries
+
+[use css module](https://github.com/Mikele11/React-lerning/commit/700656e794fb83442a6d959e4b24d8b0dd2b0a61) -add css module
+
+[add preudo selectors](https://github.com/Mikele11/React-lerning/commit/f7d88d37e91228d4ea4f784bd6b40384be3b3979) -add preudo selectors
+
+[add media queries](https://github.com/Mikele11/React-lerning/commit/5072eb295cba96591ce051b934ead08496fee64a) -add media queries
+
+[add component ErrorBoundary](https://github.com/Mikele11/React-lerning/commit/2470ff8d2c707d372370956ab848cdb25c0f9929) -add component ErrorBoundary
+
+[change file structure](https://github.com/Mikele11/React-lerning/commit/1cbe20496fec9d363cbbccccb3fed5d3c8dc4fb4) -change file structure
+
+[spliting App into Components](https://github.com/Mikele11/React-lerning/commit/104d154bcfdcd0bffc4571586bed22735c7d62d6) -spliting App into Components
+
+[stateless and statefull component](https://github.com/Mikele11/React-lerning/commit/c9a816781c7c6fc574be2644a33f5ea3a44bccc7) -stateless and statefull component
+
+[converting stateless to stateful component](https://github.com/Mikele11/React-lerning/commit/26e77dc3c5d0f03eba3894446dd128ae134bb1e0) -converting stateless to stateful component
+
+[creation lifecycle of components](https://github.com/Mikele11/React-lerning/commit/82948e800051cd7faefe654f99154dcb1cd3964d) -creation lifecycle of componentst
+
+[updating lifecycle of components](https://github.com/Mikele11/React-lerning/commit/5feed95ce58de1b7776b10eaee79f761f7f09cb5) -updating lifecycle of components
+
+[triggered by state changes](https://github.com/Mikele11/React-lerning/commit/e6aad103f29fdb0c78ce292cc1fe17369a716e07) -triggered by state changes
+
+[add Purecomponent](https://github.com/Mikele11/React-lerning/commit/6c779ad6a76c5f3420dea37564a4d9fb61bad1d4) -add Purecomponent
+
+[add hoc Component Aux1](https://github.com/Mikele11/React-lerning/commit/e79660a2be9be975163586504530afe332011c2a) -add hoc Component Aux1
+
+[add hoc Component Aux1 desc](https://github.com/Mikele11/React-lerning/commit/44f89dae45f5464d7119aeb5e2e1f453e862f1cb) -add hoc Component Aux1 desc and fix style
+
+[add hoc Component withClass](https://github.com/Mikele11/React-lerning/commit/1a7753719d9ca958bcf1f67eca81a0d63dcfcb2f) -add hoc Component withClass
+
+[passing props](https://github.com/Mikele11/React-lerning/commit/a3d35d89ed5ce759ea6f3b63140b3b88443481d1) -passing props to hoc
+
+[using setState corectly](https://github.com/Mikele11/React-lerning/commit/1c620726435e2450027fdc345645c96ddee5bbde) -using setState corectly
+
+[add validation props](https://github.com/Mikele11/React-lerning/commit/be121e2a1fcdbcdc108a6ee8d67d76e94acd1c59) -add validation props using PropTypes
+
+[using refs](https://github.com/Mikele11/React-lerning/commit/ca92af91b85b7aaaeb279d7b2c7cdfb790747c57) -using refs
+
+[context api](https://github.com/Mikele11/React-lerning/commit/473121db28c605a9841492c0db388ebfe7bffbcb) -context api
+
 ## Learned
 
 #### 25.09.2018 — react-complete-guide
@@ -58,6 +110,17 @@ I learned how to use [setState](#setState) for modifies data into a component
 I learned how to use [inline](#inline) style in jsx
 
 I learned how to use [conditional](#conditional) render
+
+#### 27.09.2018 — react-complete-guide
+
+I learned what a [pseudo](#pseudo) selector is
+
+I learned what a [stateless](#stateless) and stateful component is
+
+I learned what a [hoc](#hoc) component is
+
+I learned what a [context](#context) is
+
 
 ### Definitions
 
@@ -77,9 +140,23 @@ I learned how to use [conditional](#conditional) render
 
 <a name="conditional"></a>Conditional render - conditional rendering in the react works like you do in javascript. Here you need the boolean values and unary operator **?**
 
+#### 27.09.2018 — react-complete-guide
+
+<a name="pseudo"></a>Pseudo selector - Pseudo selectors are an alternative to selectors in the radium module. We declare the global component and then work with the pseudo selectors of this component
+
+<a name="stateless"></a>Stateless and Stateful components -Stateless components is components without state. These components take data, but do not manipulate them. Stateful components - have a state and manipulate data.
+
+<a name="hoc"></a>HOC(higher-order components) -Higher-order components take the component as data and return the component transforming it.
+
+<a name="context"></a>Context - Context is designed to share data that can be considered global for a tree of React components, such as the current authenticated user, theme, or preferred language.
+
 ## Questions
 
 #### 25.09.2018 — react-complete-guide
 
 **There were no questions on this stage**
+
+#### 27.09.2018 — react-complete-guide
+
+I did not quite understand how to use refs and context api
 
