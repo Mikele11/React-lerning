@@ -11,6 +11,8 @@
 
 [add dynamic ingradient component](https://github.com/Mikele11/React-lerning/commit/9e0d69043c77939fc3b94e19fb0e327f0f9310d7) - add dynamic ingradient component
 
+[add prop-types validation](https://github.com/Mikele11/React-lerning/commit/adcb9ce1cf5ac3b2961f3cf2d8f6840af462821a) - add prop-types validation
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
