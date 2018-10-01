@@ -13,6 +13,8 @@
 
 [add prop-types validation](https://github.com/Mikele11/React-lerning/commit/adcb9ce1cf5ac3b2961f3cf2d8f6840af462821a) - add prop-types validation
 
+[add outputting ingradients dynamacally](https://github.com/Mikele11/React-lerning/commit/da9adb690ed2eef871fd13360989b1e1198996c5) - add outputting ingradients dynamacally
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
