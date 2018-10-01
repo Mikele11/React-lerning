@@ -19,6 +19,8 @@
 
 [add build controller](https://github.com/Mikele11/React-lerning/commit/463483d24d87de7f7a2c170e59cb14a5bf0cd315) - add build controller
 
+[add buildcontrollers panel](https://github.com/Mikele11/React-lerning/commit/50f6b0397a5864336cf42a7ebcaa97ff691584ec) - add buildcontrollers panel
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
