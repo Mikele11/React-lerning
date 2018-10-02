@@ -29,6 +29,8 @@
 
 [add order button](https://github.com/Mikele11/React-lerning/commit/ab85c3e45f6ed5730f6ce6a723e92dd82afeed19) - add order button
 
+[add order modal summary](https://github.com/Mikele11/React-lerning/commit/bcb4ae8a6c9f45ec0dcf71bcf2a6d1570bf10614) - add order modal summary
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
