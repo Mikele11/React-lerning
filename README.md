@@ -23,6 +23,8 @@
 
 [connecting state to build controller](https://github.com/Mikele11/React-lerning/commit/7d412272b92537864667c946b33a5d5d0f121a1c) - connecting state to build controller
 
+[add removing ingredients](https://github.com/Mikele11/React-lerning/commit/0044e44dcbee84f1afe9449f81b1e3114272451c) - add removing ingredients
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
