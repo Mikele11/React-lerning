@@ -21,6 +21,8 @@
 
 [add buildcontrollers panel](https://github.com/Mikele11/React-lerning/commit/50f6b0397a5864336cf42a7ebcaa97ff691584ec) - add buildcontrollers panel
 
+[connecting state to build controller](https://github.com/Mikele11/React-lerning/commit/7d412272b92537864667c946b33a5d5d0f121a1c) - connecting state to build controller
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
