@@ -27,6 +27,8 @@
 
 [output totalprice](https://github.com/Mikele11/React-lerning/commit/7db673224be64c515795e8de683389805cb8931f) - output totalprice
 
+[add order button](https://github.com/Mikele11/React-lerning/commit/ab85c3e45f6ed5730f6ce6a723e92dd82afeed19) - add order button
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
