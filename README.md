@@ -43,6 +43,8 @@
 
 [add toolbar](https://github.com/Mikele11/React-lerning/commit/94389e9ed6e82ec99a757b12a46537e8af3ddfb1) - add toolbar
 
+[add logo](https://github.com/Mikele11/React-lerning/commit/68f0206181467eb1fdae14f9a06b25ed55d3c187) - add logo
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
