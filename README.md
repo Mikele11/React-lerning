@@ -31,6 +31,8 @@
 
 [add order modal summary](https://github.com/Mikele11/React-lerning/commit/bcb4ae8a6c9f45ec0dcf71bcf2a6d1570bf10614) - add order modal summary
 
+[show and hide order](https://github.com/Mikele11/React-lerning/commit/ef618edef093fb93346b2788e21930a08615c2fe) - show and hide order
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
