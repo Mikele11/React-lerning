@@ -41,6 +41,8 @@
 
 [add price too order summary](https://github.com/Mikele11/React-lerning/commit/5b458230e97fa58653cf71d41223d2d41a064cd3) - add price too order summary
 
+[add toolbar](https://github.com/Mikele11/React-lerning/commit/94389e9ed6e82ec99a757b12a46537e8af3ddfb1) - add toolbar
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
