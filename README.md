@@ -33,6 +33,8 @@
 
 [show and hide order](https://github.com/Mikele11/React-lerning/commit/ef618edef093fb93346b2788e21930a08615c2fe) - show and hide order
 
+[add backdrop and styling](https://github.com/Mikele11/React-lerning/commit/40087236abf0e262a3048b91a05c8bf1c7186f1c) - add backdrop and styling
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
