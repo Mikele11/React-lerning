@@ -37,7 +37,9 @@
 
 [add custom button](https://github.com/Mikele11/React-lerning/commit/06c037950beb0ec874d40fa4140a86c38d37c087) - add custom button
 
-implementing button for order summary](https://github.com/Mikele11/React-lerning/commit/58c5f56121e93e11b62f421fc468c250970f3a2d) - implementing button for order summary
+[implementing button for order summary](https://github.com/Mikele11/React-lerning/commit/58c5f56121e93e11b62f421fc468c250970f3a2d) - implementing button for order summary
+
+[add price too order summary](https://github.com/Mikele11/React-lerning/commit/5b458230e97fa58653cf71d41223d2d41a064cd3) - add price too order summary
 
 ## Learned
 
