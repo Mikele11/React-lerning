@@ -45,6 +45,8 @@
 
 [add logo](https://github.com/Mikele11/React-lerning/commit/68f0206181467eb1fdae14f9a06b25ed55d3c187) - add logo
 
+[add navigation items](https://github.com/Mikele11/React-lerning/commit/673b7e951c4e331d32f55a23e571dde11920a825) - add navigation items
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
