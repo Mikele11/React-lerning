@@ -37,6 +37,8 @@
 
 [add custom button](https://github.com/Mikele11/React-lerning/commit/06c037950beb0ec874d40fa4140a86c38d37c087) - add custom button
 
+implementing button for order summary](https://github.com/Mikele11/React-lerning/commit/58c5f56121e93e11b62f421fc468c250970f3a2d) - implementing button for order summary
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
