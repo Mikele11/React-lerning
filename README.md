@@ -35,6 +35,8 @@
 
 [add backdrop and styling](https://github.com/Mikele11/React-lerning/commit/40087236abf0e262a3048b91a05c8bf1c7186f1c) - add backdrop and styling
 
+[add custom button](https://github.com/Mikele11/React-lerning/commit/06c037950beb0ec874d40fa4140a86c38d37c087) - add custom button
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
