@@ -25,6 +25,8 @@
 
 [add removing ingredients](https://github.com/Mikele11/React-lerning/commit/0044e44dcbee84f1afe9449f81b1e3114272451c) - add removing ingredients
 
+[output totalprice](https://github.com/Mikele11/React-lerning/commit/7db673224be64c515795e8de683389805cb8931f) - output totalprice
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
