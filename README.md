@@ -47,6 +47,9 @@
 
 [add navigation items](https://github.com/Mikele11/React-lerning/commit/673b7e951c4e331d32f55a23e571dde11920a825) - add navigation items
 
+#### 03.10.2018 — burger-builder
+[add sideDrawer and fix css image](https://github.com/Mikele11/React-lerning/commit/881e17fe0f1ab9a6f7a9eaad5f84f13a326933a2) - add sideDrawer and fix css image
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
