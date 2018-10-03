@@ -9,6 +9,8 @@
 
 [rendering fetched data](https://github.com/Mikele11/React-lerning/commit/933a6be82bafac80a6aacc430787cc2b0cddb6aa) - rendering fetched data
 
+[transform data](https://github.com/Mikele11/React-lerning/commit/a74f1920a43f19f01db7c94726fe611e212c346e) - transform data
+
 ## Learned
 
 #### 03.10.2018 — http-blog
