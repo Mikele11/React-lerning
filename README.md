@@ -58,6 +58,8 @@
 
 [add lean button om menu](https://github.com/Mikele11/React-lerning/commit/5a80757804f8f39fdc50905a81370919b321eaee) - add lean button om menu
 
+[add lifecycle](https://github.com/Mikele11/React-lerning/commit/92505a1f17d23a8335cb7ddeb87b93d5f9a012b0) - add lifecycle function to components and rewrite components to stateful
+
 
 ## Learned
 
