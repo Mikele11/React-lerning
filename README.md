@@ -60,6 +60,8 @@
 
 [add lifecycle](https://github.com/Mikele11/React-lerning/commit/92505a1f17d23a8335cb7ddeb87b93d5f9a012b0) - add lifecycle function to components and rewrite components to stateful
 
+[change filestructure](https://github.com/Mikele11/React-lerning/commit/1b05e4a5f20311dfb674f8a6f63d9377136af4d4) - change filestructure
+
 
 ## Learned
 
