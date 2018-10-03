@@ -3,7 +3,7 @@
 ## Changes
 
 #### 03.10.2018 — http-blog
-
+[starting project](https://github.com/Mikele11/React-lerning/commit/6fdbae86da10e9456119b423bb6fb8819db5bbfd) - starting project
 
 ## Learned
 
