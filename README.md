@@ -13,6 +13,8 @@
 
 [selected post](https://github.com/Mikele11/React-lerning/commit/c9f3e191a0fb2b02a310a6785595f9abb33aa1c6) - selected post
 
+[fetching data](https://github.com/Mikele11/React-lerning/commit/805f3b08be0113c4552735bb55cc75d60de6b026) - fetching data
+
 ## Learned
 
 #### 03.10.2018 — http-blog
