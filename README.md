@@ -47,6 +47,22 @@
 
 [add navigation items](https://github.com/Mikele11/React-lerning/commit/673b7e951c4e331d32f55a23e571dde11920a825) - add navigation items
 
+#### 03.10.2018 — burger-builder
+[add sideDrawer and fix css image](https://github.com/Mikele11/React-lerning/commit/881e17fe0f1ab9a6f7a9eaad5f84f13a326933a2) - add sideDrawer and fix css image
+
+[add media queries](https://github.com/Mikele11/React-lerning/commit/7db1ea74bc48b402e77b92c2a5ccd863396a04a7) - add media queries
+
+[reusing backdrop](https://github.com/Mikele11/React-lerning/commit/308aa63d31f8fb8fe28be2b81d2bcf6abea99056) - reusing backdrop
+
+[add drawer toogle button](https://github.com/Mikele11/React-lerning/commit/7e4cf21e105391843f9890c8c1c7e811d7814f67) - add drawer toogle button
+
+[add lean button om menu](https://github.com/Mikele11/React-lerning/commit/5a80757804f8f39fdc50905a81370919b321eaee) - add lean button om menu
+
+[add lifecycle](https://github.com/Mikele11/React-lerning/commit/92505a1f17d23a8335cb7ddeb87b93d5f9a012b0) - add lifecycle function to components and rewrite components to stateful
+
+[change filestructure](https://github.com/Mikele11/React-lerning/commit/1b05e4a5f20311dfb674f8a6f63d9377136af4d4) - change filestructure
+
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
