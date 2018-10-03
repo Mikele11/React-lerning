@@ -56,6 +56,8 @@
 
 [add drawer toogle button](https://github.com/Mikele11/React-lerning/commit/7e4cf21e105391843f9890c8c1c7e811d7814f67) - add drawer toogle button
 
+[add lean button om menu](https://github.com/Mikele11/React-lerning/commit/5a80757804f8f39fdc50905a81370919b321eaee) - add lean button om menu
+
 
 ## Learned
 
