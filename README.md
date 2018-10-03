@@ -7,6 +7,8 @@
 
 [add get data](https://github.com/Mikele11/React-lerning/commit/b04855dbd04f3bc73c0c87bdbd99400c5e9225fc) - add get data
 
+[rendering fetched data](https://github.com/Mikele11/React-lerning/commit/933a6be82bafac80a6aacc430787cc2b0cddb6aa) - rendering fetched data
+
 ## Learned
 
 #### 03.10.2018 — http-blog
