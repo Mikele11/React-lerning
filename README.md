@@ -50,6 +50,8 @@
 #### 03.10.2018 — burger-builder
 [add sideDrawer and fix css image](https://github.com/Mikele11/React-lerning/commit/881e17fe0f1ab9a6f7a9eaad5f84f13a326933a2) - add sideDrawer and fix css image
 
+[add media queries](https://github.com/Mikele11/React-lerning/commit/7db1ea74bc48b402e77b92c2a5ccd863396a04a7) - add media queries
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
