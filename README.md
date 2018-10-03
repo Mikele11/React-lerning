@@ -52,6 +52,8 @@
 
 [add media queries](https://github.com/Mikele11/React-lerning/commit/7db1ea74bc48b402e77b92c2a5ccd863396a04a7) - add media queries
 
+[reusing backdrop](https://github.com/Mikele11/React-lerning/commit/308aa63d31f8fb8fe28be2b81d2bcf6abea99056) - reusing backdrop
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
