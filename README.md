@@ -17,6 +17,8 @@
 
 [posting data to server](https://github.com/Mikele11/React-lerning/commit/6c2f27a867c64665a7e81f7b2c6e00f2eefbd5b6) - posting data to server
 
+[delete data](https://github.com/Mikele11/React-lerning/commit/dfc1105e0664cb3fa1540ab45c40a0bd7b9da36e) - delete data
+
 ## Learned
 
 #### 03.10.2018 — http-blog
