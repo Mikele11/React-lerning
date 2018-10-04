@@ -25,6 +25,8 @@
 
 [setting default](https://github.com/Mikele11/React-lerning/commit/bd3c182f075ad265e91133ffdeeacdee035bdcd0) - setting default global configuration using axios
 
+[using instance](https://github.com/Mikele11/React-lerning/commit/76b3d7fc77d6c5198d2f301a22196a92da273b1b) - using instance
+
 ## Learned
 
 #### 03.10.2018 — http-blog
