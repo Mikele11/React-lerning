@@ -15,6 +15,8 @@
 
 [fetching data](https://github.com/Mikele11/React-lerning/commit/805f3b08be0113c4552735bb55cc75d60de6b026) - fetching data
 
+[posting data to server](https://github.com/Mikele11/React-lerning/commit/6c2f27a867c64665a7e81f7b2c6e00f2eefbd5b6) - posting data to server
+
 ## Learned
 
 #### 03.10.2018 — http-blog
