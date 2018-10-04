@@ -65,6 +65,8 @@
 #### 04.10.2018 — burger-builder
 [creating axios instance](https://github.com/Mikele11/React-lerning/commit/1e36169d9ad3f1e17603b72ca7e0e0d6520f7930) - creating axios instance
 
+[post data to firebase](https://github.com/Mikele11/React-lerning/commit/2964468e07c64fdc11854ce6a86147184fb141b4) - post data to firebase
+
 
 ## Learned
 
