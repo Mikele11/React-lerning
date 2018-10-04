@@ -73,6 +73,8 @@
 
 [get data from backend](https://github.com/Mikele11/React-lerning/commit/4ed39ed6b5134a822c85c0300bf95fd56e2568df) - get data from backend
 
+[fix interceptors](https://github.com/Mikele11/React-lerning/commit/772ef8b2177945bc21452c7dbd7e5e77d4e869ee) - fix interceptors
+
 
 ## Learned
 
@@ -89,4 +91,9 @@
 #### 01.10.2018 — burger-builder
 
 **There were no questions on this stage**
+
+#### 04.10.2018 — burger-builder
+
+**I don't quite understand how use interceptors**
+
 
