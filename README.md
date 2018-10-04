@@ -62,6 +62,9 @@
 
 [change filestructure](https://github.com/Mikele11/React-lerning/commit/1b05e4a5f20311dfb674f8a6f63d9377136af4d4) - change filestructure
 
+#### 04.10.2018 — burger-builder
+[creating axios instance](https://github.com/Mikele11/React-lerning/commit/1e36169d9ad3f1e17603b72ca7e0e0d6520f7930) - creating axios instance
+
 
 ## Learned
 
