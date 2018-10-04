@@ -23,6 +23,8 @@
 
 [using inerceptors](https://github.com/Mikele11/React-lerning/commit/006cb92b591bafe0fdf367351ac799bd580ffc26) - using Interceptors
 
+[setting default](https://github.com/Mikele11/React-lerning/commit/bd3c182f075ad265e91133ffdeeacdee035bdcd0) - setting default global configuration using axios
+
 ## Learned
 
 #### 03.10.2018 — http-blog
