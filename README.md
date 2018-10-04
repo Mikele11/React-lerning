@@ -19,6 +19,8 @@
 
 [delete data](https://github.com/Mikele11/React-lerning/commit/dfc1105e0664cb3fa1540ab45c40a0bd7b9da36e) - delete data
 
+[catch error](https://github.com/Mikele11/React-lerning/commit/20b93399aa65948492c6e5319382bbb7fd4883dc) - catch error
+
 ## Learned
 
 #### 03.10.2018 — http-blog
