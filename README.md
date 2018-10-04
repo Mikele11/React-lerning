@@ -69,6 +69,8 @@
 
 [add spinner](https://github.com/Mikele11/React-lerning/commit/db43080d4c836b7659e6c595813929be90308705) - add spinner
 
+[add error handler](https://github.com/Mikele11/React-lerning/commit/f8bfb253f67c5b104dac14f9e8bb251fed293776) - add error handler
+
 
 ## Learned
 
