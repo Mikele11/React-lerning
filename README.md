@@ -71,6 +71,8 @@
 
 [add error handler](https://github.com/Mikele11/React-lerning/commit/f8bfb253f67c5b104dac14f9e8bb251fed293776) - add error handler
 
+[get data from backend](https://github.com/Mikele11/React-lerning/commit/4ed39ed6b5134a822c85c0300bf95fd56e2568df) - get data from backend
+
 
 ## Learned
 
