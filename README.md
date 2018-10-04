@@ -21,15 +21,20 @@
 
 [catch error](https://github.com/Mikele11/React-lerning/commit/20b93399aa65948492c6e5319382bbb7fd4883dc) - catch error
 
+[using inerceptors](https://github.com/Mikele11/React-lerning/commit/006cb92b591bafe0fdf367351ac799bd580ffc26) - using Interceptors
+
 ## Learned
 
 #### 03.10.2018 — http-blog
+
+I learned how to use [interceptors](#interceptors) in axios
 
 
 ### Definitions
 
 #### 03.10.2018 — http-blog
 
+<a name="interceptors"></a>Interceptors - We can intercept requests or responses before they are handled by then or catch.
 
 ## Questions
 
