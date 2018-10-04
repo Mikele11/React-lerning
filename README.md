@@ -67,6 +67,8 @@
 
 [post data to firebase](https://github.com/Mikele11/React-lerning/commit/2964468e07c64fdc11854ce6a86147184fb141b4) - post data to firebase
 
+[add spinner](https://github.com/Mikele11/React-lerning/commit/db43080d4c836b7659e6c595813929be90308705) - add spinner
+
 
 ## Learned
 
