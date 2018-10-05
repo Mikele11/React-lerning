@@ -29,6 +29,8 @@
 
 [add links](https://github.com/Mikele11/React-lerning/commit/60c95249e3b827a869f777f7d3ba58b5b3ab6d3b) - add links
 
+[add BrowserRouter](https://github.com/Mikele11/React-lerning/commit/de9aac23f3504ab03e6cfb248b5f1ec90858108a) - add BrowserRouter
+
 ## Learned
 
 #### 03.10.2018 — http-blog
