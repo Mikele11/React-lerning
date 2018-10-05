@@ -31,6 +31,8 @@
 
 [add BrowserRouter](https://github.com/Mikele11/React-lerning/commit/de9aac23f3504ab03e6cfb248b5f1ec90858108a) - add BrowserRouter
 
+[rendering routes](https://github.com/Mikele11/React-lerning/commit/57940ceba4f3fa764162beaea2f3de1a817eae4a) - rendering routes
+
 ## Learned
 
 #### 03.10.2018 — http-blog
