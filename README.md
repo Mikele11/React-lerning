@@ -45,6 +45,8 @@
 
 [using switch](https://github.com/Mikele11/React-lerning/commit/6464817cb94513a69938b19cd7311a3177a3fed2) - using switch
 
+[add navigation to histiry](https://github.com/Mikele11/React-lerning/commit/8914cf7509f389c3e565e74ff766a4b18cb89e5f) - add navigation to histiry
+
 ## Learned
 
 #### 03.10.2018 — http-blog
