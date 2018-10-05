@@ -62,6 +62,21 @@
 
 [change filestructure](https://github.com/Mikele11/React-lerning/commit/1b05e4a5f20311dfb674f8a6f63d9377136af4d4) - change filestructure
 
+#### 04.10.2018 — burger-builder
+[creating axios instance](https://github.com/Mikele11/React-lerning/commit/1e36169d9ad3f1e17603b72ca7e0e0d6520f7930) - creating axios instance
+
+[post data to firebase](https://github.com/Mikele11/React-lerning/commit/2964468e07c64fdc11854ce6a86147184fb141b4) - post data to firebase
+
+[add spinner](https://github.com/Mikele11/React-lerning/commit/db43080d4c836b7659e6c595813929be90308705) - add spinner
+
+[add error handler](https://github.com/Mikele11/React-lerning/commit/f8bfb253f67c5b104dac14f9e8bb251fed293776) - add error handler
+
+[get data from backend](https://github.com/Mikele11/React-lerning/commit/4ed39ed6b5134a822c85c0300bf95fd56e2568df) - get data from backend
+
+[fix interceptors](https://github.com/Mikele11/React-lerning/commit/772ef8b2177945bc21452c7dbd7e5e77d4e869ee) - fix interceptors
+
+[build checkout container](https://github.com/Mikele11/React-lerning/commit/3cb727f5d8cba228d1db1370a9ac3678ec236dc3) - build checkout container
+
 
 ## Learned
 
@@ -78,4 +93,9 @@
 #### 01.10.2018 — burger-builder
 
 **There were no questions on this stage**
+
+#### 04.10.2018 — burger-builder
+
+**I don't quite understand how use interceptors**
+
 
