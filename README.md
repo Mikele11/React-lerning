@@ -49,6 +49,8 @@
 
 [dynamic nested routes](https://github.com/Mikele11/React-lerning/commit/2b31092f4b89a7f750f10b01e3873a796a934099) - dynamic nested routes
 
+[add to redirect routing](https://github.com/Mikele11/React-lerning/commit/ebc1c224ad70473792c19c8fdefe644a1b641f84) -add to redirect routing
+
 ## Learned
 
 #### 03.10.2018 — http-blog
