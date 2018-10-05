@@ -43,6 +43,8 @@
 
 [use routing params](https://github.com/Mikele11/React-lerning/commit/52f7acaeb5ddc4d0df137a0714ffbc253c008e67) - use routing params
 
+[using switch](https://github.com/Mikele11/React-lerning/commit/6464817cb94513a69938b19cd7311a3177a3fed2) - using switch
+
 ## Learned
 
 #### 03.10.2018 — http-blog
