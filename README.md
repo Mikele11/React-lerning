@@ -27,6 +27,8 @@
 
 [using instance](https://github.com/Mikele11/React-lerning/commit/76b3d7fc77d6c5198d2f301a22196a92da273b1b) - using instance
 
+[add links](https://github.com/Mikele11/React-lerning/commit/60c95249e3b827a869f777f7d3ba58b5b3ab6d3b) - add links
+
 ## Learned
 
 #### 03.10.2018 — http-blog
