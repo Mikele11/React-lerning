@@ -39,6 +39,8 @@
 
 [add links](https://github.com/Mikele11/React-lerning/commit/fa58a4e19c6f1b226dd1ec34b55a9e5a09a81f18) - add links
 
+[styling active link](https://github.com/Mikele11/React-lerning/commit/8a27b301ecdab77ab7414efdb326f82f31f1dc2b) - styling active link
+
 ## Learned
 
 #### 03.10.2018 — http-blog
