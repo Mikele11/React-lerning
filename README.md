@@ -37,6 +37,8 @@
 
 [rendering components 2](https://github.com/Mikele11/React-lerning/commit/7a872c6b82082dd78f893d4445cb4b48c00f64a8) - rendering components 2
 
+[add links](https://github.com/Mikele11/React-lerning/commit/fa58a4e19c6f1b226dd1ec34b55a9e5a09a81f18) - add links
+
 ## Learned
 
 #### 03.10.2018 — http-blog
