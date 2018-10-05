@@ -33,6 +33,8 @@
 
 [rendering routes](https://github.com/Mikele11/React-lerning/commit/57940ceba4f3fa764162beaea2f3de1a817eae4a) - rendering routes
 
+[rendering components](https://github.com/Mikele11/React-lerning/commit/d12cecb2ea0fccfc3fa522e50d053c76d358a50f) - rendering components
+
 ## Learned
 
 #### 03.10.2018 — http-blog
