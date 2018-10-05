@@ -47,6 +47,8 @@
 
 [add navigation to histiry](https://github.com/Mikele11/React-lerning/commit/8914cf7509f389c3e565e74ff766a4b18cb89e5f) - add navigation to histiry
 
+[dynamic nested routes](https://github.com/Mikele11/React-lerning/commit/2b31092f4b89a7f750f10b01e3873a796a934099) - dynamic nested routes
+
 ## Learned
 
 #### 03.10.2018 — http-blog
