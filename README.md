@@ -35,6 +35,8 @@
 
 [rendering components](https://github.com/Mikele11/React-lerning/commit/d12cecb2ea0fccfc3fa522e50d053c76d358a50f) - rendering components
 
+[rendering components 2](https://github.com/Mikele11/React-lerning/commit/7a872c6b82082dd78f893d4445cb4b48c00f64a8) - rendering components 2
+
 ## Learned
 
 #### 03.10.2018 — http-blog
