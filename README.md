@@ -41,6 +41,8 @@
 
 [styling active link](https://github.com/Mikele11/React-lerning/commit/8a27b301ecdab77ab7414efdb326f82f31f1dc2b) - styling active link
 
+[use routing params](https://github.com/Mikele11/React-lerning/commit/52f7acaeb5ddc4d0df137a0714ffbc253c008e67) - use routing params
+
 ## Learned
 
 #### 03.10.2018 — http-blog
