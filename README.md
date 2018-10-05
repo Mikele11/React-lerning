@@ -75,6 +75,8 @@
 
 [fix interceptors](https://github.com/Mikele11/React-lerning/commit/772ef8b2177945bc21452c7dbd7e5e77d4e869ee) - fix interceptors
 
+[build checkout container](https://github.com/Mikele11/React-lerning/commit/3cb727f5d8cba228d1db1370a9ac3678ec236dc3) - build checkout container
+
 
 ## Learned
 
