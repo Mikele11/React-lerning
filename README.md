@@ -51,6 +51,8 @@
 
 [add to redirect routing](https://github.com/Mikele11/React-lerning/commit/ebc1c224ad70473792c19c8fdefe644a1b641f84) -add to redirect routing
 
+[async hoc](https://github.com/Mikele11/React-lerning/commit/1d1a02c00eb248264cbee6bde5e503dc5d128e8d) -async hoc
+
 ## Learned
 
 #### 03.10.2018 — http-blog
