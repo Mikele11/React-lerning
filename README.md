@@ -90,6 +90,8 @@
 
 [get data from order](https://github.com/Mikele11/React-lerning/commit/8c3e7f34ef4f801a6daf43c68a91ad3589cac49c) - get data from order
 
+[create orders page](https://github.com/Mikele11/React-lerning/commit/de29691b01bf46b22394eef414db499565fcb561) - create orders page
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
