@@ -77,6 +77,9 @@
 
 [build checkout container](https://github.com/Mikele11/React-lerning/commit/3cb727f5d8cba228d1db1370a9ac3678ec236dc3) - build checkout container
 
+#### 08.10.2018 — burger-builder
+[setting up routing and routes](https://github.com/Mikele11/React-lerning/commit/c8ee265ea2a7b81ab9e93d62bcdb0b200a6a96ec) - setting up routing and routes
+
 
 ## Learned
 
