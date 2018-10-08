@@ -1,6 +1,6 @@
 .NavigationItem {
     margin: 10px 0;
-    box-lines: border-box;
+    box-sizing: border-box;
     display: block;
     width: 100%;
 }
@@ -42,4 +42,4 @@
         border-bottom: 4px solid #40A4C8;
         color: white;
     }
-} 
+}
