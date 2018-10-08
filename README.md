@@ -84,6 +84,7 @@
 
 [navigation back and next page](https://github.com/Mikele11/React-lerning/commit/740ae1815554403f10c8820ea3e9b961d01246b1) - navigation back and next page
 
+[passing ingradients via query params](https://github.com/Mikele11/React-lerning/commit/258d1fdd726b30b63dcd927fc32fa8e68268ea90) - passing ingradients via query params
 
 ## Learned
 
