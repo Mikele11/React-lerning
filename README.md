@@ -94,6 +94,8 @@
 
 [implement navigation link](https://github.com/Mikele11/React-lerning/commit/48e381a388fa044053329a08e6c664ef903ebcfe) - implement navigation link
 
+[fetching orders fix](https://github.com/Mikele11/React-lerning/commit/1652b260d4e93f210360bbb69d8c39f3d6fbd1cc) - fetching orders fix
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
