@@ -77,6 +77,26 @@
 
 [build checkout container](https://github.com/Mikele11/React-lerning/commit/3cb727f5d8cba228d1db1370a9ac3678ec236dc3) - build checkout container
 
+#### 08.10.2018 — burger-builder
+[setting up routing and routes](https://github.com/Mikele11/React-lerning/commit/c8ee265ea2a7b81ab9e93d62bcdb0b200a6a96ec) - setting up routing and routes
+
+[navigation to the checkout](https://github.com/Mikele11/React-lerning/commit/857d321dae14963f16d071a0da944ae30b8cc329) - navigation to the checkout
+
+[navigation back and next page](https://github.com/Mikele11/React-lerning/commit/740ae1815554403f10c8820ea3e9b961d01246b1) - navigation back and next page
+
+[passing ingradients via query params](https://github.com/Mikele11/React-lerning/commit/258d1fdd726b30b63dcd927fc32fa8e68268ea90) - passing ingradients via query params
+
+[navigation to contact data](https://github.com/Mikele11/React-lerning/commit/73c6e1b4d249dc207c8b54b9cb4506871369393c) - navigation to contact data
+
+[get data from order](https://github.com/Mikele11/React-lerning/commit/8c3e7f34ef4f801a6daf43c68a91ad3589cac49c) - get data from order
+
+[create orders page](https://github.com/Mikele11/React-lerning/commit/de29691b01bf46b22394eef414db499565fcb561) - create orders page
+
+[implement navigation link](https://github.com/Mikele11/React-lerning/commit/48e381a388fa044053329a08e6c664ef903ebcfe) - implement navigation link
+
+[fetching orders fix](https://github.com/Mikele11/React-lerning/commit/1652b260d4e93f210360bbb69d8c39f3d6fbd1cc) - fetching orders fix
+
+[fixes props](https://github.com/Mikele11/React-lerning/commit/2cc8059beee9f838edf5a0aaf7965de1743fe3c3) - fixes props
 
 ## Learned
 
