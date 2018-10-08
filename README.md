@@ -86,6 +86,8 @@
 
 [passing ingradients via query params](https://github.com/Mikele11/React-lerning/commit/258d1fdd726b30b63dcd927fc32fa8e68268ea90) - passing ingradients via query params
 
+[navigation to contact data](https://github.com/Mikele11/React-lerning/commit/73c6e1b4d249dc207c8b54b9cb4506871369393c) - navigation to contact data
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
