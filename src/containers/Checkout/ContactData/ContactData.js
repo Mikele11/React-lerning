@@ -1,29 +1,28 @@
-import React, { Component } from 'react';
-
-import Button from '../../../components/UI/Button/Button';
-import Spinner from '../../../components/UI/Spinner/Spinner';
-import classes from './ContactData.css';
-import axios from '../../../axios-orders';
+import React, { Component } from 'react'
+import Button from '../../../components/UI/Button/Button'
+import Spinner from '../../../components/UI/Spinner/Spinner'
+import classes from './ContactData.css'
+import axios from '../../../axios-orders'
 
 class ContactData extends Component {
     state = {
         name: '',
         email: '',
-        address: {
+        adress: {
             street: '',
             postalCode: ''
         },
         loading: false
     }
 
-    orderHandler = ( event ) => {
+    orderHandler = (event) => {
         event.preventDefault();
-        this.setState( { loading: true } );
+        this.setState({ loading: true });
         const order = {
             ingredients: this.props.ingredients,
             price: this.props.price,
             customer: {
-                name: 'Max Schwarzmüller',
+                name: 'Max Shcwarxmuller',
                 address: {
                     street: 'Teststreet 1',
                     zipCode: '41351',
@@ -33,14 +32,14 @@ class ContactData extends Component {
             },
             deliveryMethod: 'fastest'
         }
-        axios.post( '/orders.json', order )
-            .then( response => {
-                this.setState( { loading: false } );
+        axios.post('/orders.json', order)
+            .then(response =>{
+                this.setState({ loading: false });
                 this.props.history.push('/');
-            } )
-            .catch( error => {
-                this.setState( { loading: false } );
-            } );
+            })
+            .catch(error =>{
+                this.setState({ loading: false });
+            })
     }
 
     render () {
@@ -53,8 +52,8 @@ class ContactData extends Component {
                 <Button btnType="Success" clicked={this.orderHandler}>ORDER</Button>
             </form>
         );
-        if ( this.state.loading ) {
-            form = <Spinner />;
+        if (this.state.loading) {
+            form = <Spinner />
         }
         return (
             <div className={classes.ContactData}>
@@ -63,6 +62,7 @@ class ContactData extends Component {
             </div>
         );
     }
+
 }
 
 export default ContactData;
