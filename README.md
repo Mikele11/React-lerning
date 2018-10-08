@@ -92,6 +92,8 @@
 
 [create orders page](https://github.com/Mikele11/React-lerning/commit/de29691b01bf46b22394eef414db499565fcb561) - create orders page
 
+[implement navigation link](https://github.com/Mikele11/React-lerning/commit/48e381a388fa044053329a08e6c664ef903ebcfe) - implement navigation link
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
