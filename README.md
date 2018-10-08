@@ -88,6 +88,8 @@
 
 [navigation to contact data](https://github.com/Mikele11/React-lerning/commit/73c6e1b4d249dc207c8b54b9cb4506871369393c) - navigation to contact data
 
+[get data from order](https://github.com/Mikele11/React-lerning/commit/8c3e7f34ef4f801a6daf43c68a91ad3589cac49c) - get data from order
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
