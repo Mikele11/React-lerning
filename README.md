@@ -80,6 +80,8 @@
 #### 08.10.2018 — burger-builder
 [setting up routing and routes](https://github.com/Mikele11/React-lerning/commit/c8ee265ea2a7b81ab9e93d62bcdb0b200a6a96ec) - setting up routing and routes
 
+[navigation to the checkout](https://github.com/Mikele11/React-lerning/commit/857d321dae14963f16d071a0da944ae30b8cc329) - navigation to the checkout
+
 
 ## Learned
 
