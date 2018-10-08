@@ -82,6 +82,8 @@
 
 [navigation to the checkout](https://github.com/Mikele11/React-lerning/commit/857d321dae14963f16d071a0da944ae30b8cc329) - navigation to the checkout
 
+[navigation back and next page](https://github.com/Mikele11/React-lerning/commit/740ae1815554403f10c8820ea3e9b961d01246b1) - navigation back and next page
+
 
 ## Learned
 
