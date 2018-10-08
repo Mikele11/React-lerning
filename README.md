@@ -96,6 +96,8 @@
 
 [fetching orders fix](https://github.com/Mikele11/React-lerning/commit/1652b260d4e93f210360bbb69d8c39f3d6fbd1cc) - fetching orders fix
 
+[fixes props](https://github.com/Mikele11/React-lerning/commit/2cc8059beee9f838edf5a0aaf7965de1743fe3c3) - fixes props
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
