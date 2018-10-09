@@ -98,6 +98,30 @@
 
 [fixes props](https://github.com/Mikele11/React-lerning/commit/2cc8059beee9f838edf5a0aaf7965de1743fe3c3) - fixes props
 
+#### 09.10.2018 — burger-builder
+[custom input](https://github.com/Mikele11/React-lerning/commit/2ebdd7c53bd111b7573ba4ceb6d1a335c27f2904) - custom input
+
+[dunamic input](https://github.com/Mikele11/React-lerning/commit/515fa83a007782498eaacaaccab5b43ca755d811) - dunamic input
+
+[add dropdown element](https://github.com/Mikele11/React-lerning/commit/5aaadeb741602d9bf1960a4b3508cc1ac02854e9) - add dropdown element
+
+[handlinf input change](https://github.com/Mikele11/React-lerning/commit/6c2bda25a4725e9bc7a33776ba045d264a7e6af3) - handlinf input change
+
+[handling form](https://github.com/Mikele11/React-lerning/commit/3b38a38e56fef5d19a261332f9b4c3905b2ea09f) - handling form
+
+[form validation](https://github.com/Mikele11/React-lerning/commit/6d089bcf1a1ae41f4fdde487eb7656b1fe7d7401) - form validation
+
+[fix logic validation](https://github.com/Mikele11/React-lerning/commit/8b1c3325144459c04dd70ecc6501040930954c56) - fix logic validation
+
+[validation feedback](https://github.com/Mikele11/React-lerning/commit/8991df5de91d20b9ea0e846092406c8314c58471) - validation feedback
+
+[visual validation feedback](https://github.com/Mikele11/React-lerning/commit/a5f1e46607f6abff1e1dafb560a9a096d2cddb33) - visual validation feedback
+
+[fix validation](https://github.com/Mikele11/React-lerning/commit/ae190c458b9ebddc43402cefc28740072ceebecd) - fix validation
+
+[fix output validation](https://github.com/Mikele11/React-lerning/commit/82ebcf51eef3ac60effed9b4e463e273ce7755d4) - fix output validation
+
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
