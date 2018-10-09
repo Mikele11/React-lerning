@@ -117,6 +117,8 @@
 
 [visual validation feedback](https://github.com/Mikele11/React-lerning/commit/a5f1e46607f6abff1e1dafb560a9a096d2cddb33) - visual validation feedback
 
+[fix validation](https://github.com/Mikele11/React-lerning/commit/ae190c458b9ebddc43402cefc28740072ceebecd) - fix validation
+
 
 ## Learned
 
