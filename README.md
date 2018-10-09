@@ -119,6 +119,8 @@
 
 [fix validation](https://github.com/Mikele11/React-lerning/commit/ae190c458b9ebddc43402cefc28740072ceebecd) - fix validation
 
+[fix output validation](https://github.com/Mikele11/React-lerning/commit/82ebcf51eef3ac60effed9b4e463e273ce7755d4) - fix output validation
+
 
 ## Learned
 
