@@ -115,6 +115,9 @@
 
 [validation feedback](https://github.com/Mikele11/React-lerning/commit/8991df5de91d20b9ea0e846092406c8314c58471) - validation feedback
 
+[visual validation feedback](https://github.com/Mikele11/React-lerning/commit/a5f1e46607f6abff1e1dafb560a9a096d2cddb33) - visual validation feedback
+
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
