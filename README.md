@@ -3,7 +3,7 @@
 ## Changes
 
 #### 09.10.2018 — redux-start
-
+[start redux project](https://github.com/Mikele11/React-lerning/commit/ff8d9861c7764a6a2f44cd61a5d7618c45b28a44) - start simple redux project (counter)
 
 ## Learned
 
