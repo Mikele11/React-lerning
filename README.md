@@ -7,6 +7,8 @@
 
 [basics store and reducer](https://github.com/Mikele11/React-lerning/commit/8ff4dd3f5f010c53ed3363ab3066f0b222b4a36b) - basics store and reducer
 
+[dispatching action](https://github.com/Mikele11/React-lerning/commit/2561cdf2fd8aca41c3887c21132a73317af32ed4) - dispatching action
+
 ## Learned
 
 #### 09.10.2018 — redux-start
@@ -15,6 +17,8 @@ I learned what a [store](#store) is
 
 I learned what a [reducers](#reducers) is
 
+I learned what a [action](#action) is
+
 ### Definitions
 
 #### 09.10.2018 — redux-start
@@ -22,6 +26,8 @@ I learned what a [reducers](#reducers) is
 <a name="store"></a>Store - The Store have the entire state tree of your application. The only way to change the state inside it is to dispatch action to it.
 
 <a name="reducers"></a>Reducers - this is pure functions that return a state. Reducers update state depending on what reducers is called.
+
+<a name="action"></a>Action - These are the structures that transfer data from your application to the repository. They are the only sources of information for the repository. You send them to the store using the **store.dispatch()** method.
 
 ## Questions
 
