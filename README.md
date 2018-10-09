@@ -107,6 +107,8 @@
 
 [handlinf input change](https://github.com/Mikele11/React-lerning/commit/6c2bda25a4725e9bc7a33776ba045d264a7e6af3) - handlinf input change
 
+[handling form](https://github.com/Mikele11/React-lerning/commit/3b38a38e56fef5d19a261332f9b4c3905b2ea09f) - handling form
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
