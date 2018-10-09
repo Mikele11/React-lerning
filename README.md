@@ -101,6 +101,8 @@
 #### 09.10.2018 — burger-builder
 [custom input](https://github.com/Mikele11/React-lerning/commit/2ebdd7c53bd111b7573ba4ceb6d1a335c27f2904) - custom input
 
+[dunamic input](https://github.com/Mikele11/React-lerning/commit/515fa83a007782498eaacaaccab5b43ca755d811) - dunamic input
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
