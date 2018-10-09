@@ -105,6 +105,8 @@
 
 [add dropdown element](https://github.com/Mikele11/React-lerning/commit/5aaadeb741602d9bf1960a4b3508cc1ac02854e9) - add dropdown element
 
+[handlinf input change](https://github.com/Mikele11/React-lerning/commit/6c2bda25a4725e9bc7a33776ba045d264a7e6af3) - handlinf input change
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
