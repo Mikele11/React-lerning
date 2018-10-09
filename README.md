@@ -98,6 +98,9 @@
 
 [fixes props](https://github.com/Mikele11/React-lerning/commit/2cc8059beee9f838edf5a0aaf7965de1743fe3c3) - fixes props
 
+#### 09.10.2018 — burger-builder
+[custom input](https://github.com/Mikele11/React-lerning/commit/2ebdd7c53bd111b7573ba4ceb6d1a335c27f2904) - custom input
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
