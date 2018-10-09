@@ -111,6 +111,8 @@
 
 [form validation](https://github.com/Mikele11/React-lerning/commit/6d089bcf1a1ae41f4fdde487eb7656b1fe7d7401) - form validation
 
+[fix logic validation](https://github.com/Mikele11/React-lerning/commit/8b1c3325144459c04dd70ecc6501040930954c56) - fix logic validation
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
