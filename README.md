@@ -109,6 +109,8 @@
 
 [handling form](https://github.com/Mikele11/React-lerning/commit/3b38a38e56fef5d19a261332f9b4c3905b2ea09f) - handling form
 
+[form validation](https://github.com/Mikele11/React-lerning/commit/6d089bcf1a1ae41f4fdde487eb7656b1fe7d7401) - form validation
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
