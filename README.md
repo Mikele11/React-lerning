@@ -113,6 +113,8 @@
 
 [fix logic validation](https://github.com/Mikele11/React-lerning/commit/8b1c3325144459c04dd70ecc6501040930954c56) - fix logic validation
 
+[validation feedback](https://github.com/Mikele11/React-lerning/commit/8991df5de91d20b9ea0e846092406c8314c58471) - validation feedback
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
