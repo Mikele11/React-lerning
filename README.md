@@ -103,6 +103,8 @@
 
 [dunamic input](https://github.com/Mikele11/React-lerning/commit/515fa83a007782498eaacaaccab5b43ca755d811) - dunamic input
 
+[add dropdown element](https://github.com/Mikele11/React-lerning/commit/5aaadeb741602d9bf1960a4b3508cc1ac02854e9) - add dropdown element
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
