@@ -31,6 +31,8 @@
 
 [multiple reducers](https://github.com/Mikele11/React-lerning/commit/a125cf5d18ab5c8121d0b161f8f36d71fcac6049) - multiple reducers
 
+[adding middleware](https://github.com/Mikele11/React-lerning/commit/3f6575653aa2d26c13619bbec6647e7aa55de6d2) - adding middleware
+
 ## Learned
 
 #### 09.10.2018 — redux-start
