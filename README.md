@@ -125,6 +125,8 @@
 
 [install redux to project](https://github.com/Mikele11/React-lerning/commit/94d8699f6bf90eafe3ae91617bcefc944b068c89) - install redux to project
 
+[redux basics setup](https://github.com/Mikele11/React-lerning/commit/1b798f8f88554ccedf2bacb50c51078a3e11e250) - redux basics setup
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
