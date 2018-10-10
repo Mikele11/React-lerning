@@ -27,6 +27,8 @@
 
 [delete immutably](https://github.com/Mikele11/React-lerning/commit/a32cf01366fbaffae0cd257fa5073ffa1f3ca0b3) - delete immutably
 
+[outsoursing action](https://github.com/Mikele11/React-lerning/commit/2ad54fea86b7d3668ceac46be92d60b63c03476e) - outsoursing action
+
 ## Learned
 
 #### 09.10.2018 — redux-start
