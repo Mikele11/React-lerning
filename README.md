@@ -15,6 +15,8 @@
 
 [connect redux to react](https://github.com/Mikele11/React-lerning/commit/977d39c411359c02685365a4cf28f56bfeab6792) - connect redux to react
 
+[connect store to reactt](https://github.com/Mikele11/React-lerning/commit/a76b0d6c70926202962056f3d0baa23443508777) - connect store to react
+
 ## Learned
 
 #### 09.10.2018 — redux-start
