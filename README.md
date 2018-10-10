@@ -131,6 +131,8 @@
 
 [total price reducer](https://github.com/Mikele11/React-lerning/commit/dca932aff079d0ad4891754169390d0d46c19c9e) - total price reducer
 
+[redux to checkout and contact data](https://github.com/Mikele11/React-lerning/commit/d34a7fd16a8116cae7d54a984881bd37eae79adb) - redux to checkout and contact data
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
