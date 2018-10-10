@@ -21,6 +21,8 @@
 
 [add other reducer](https://github.com/Mikele11/React-lerning/commit/e1ebebcd0327d58430039946d6346dfa324ffa75) - add other reducer
 
+[switch case to reducer](https://github.com/Mikele11/React-lerning/commit/03f0e7d729f52808c8e0a1e89ac0b4b706487d1e) - switch case to reducer
+
 ## Learned
 
 #### 09.10.2018 — redux-start
