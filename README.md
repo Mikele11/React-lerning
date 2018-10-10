@@ -23,6 +23,8 @@
 
 [switch case to reducer](https://github.com/Mikele11/React-lerning/commit/03f0e7d729f52808c8e0a1e89ac0b4b706487d1e) - switch case to reducer
 
+[immutably state](https://github.com/Mikele11/React-lerning/commit/93a5a77088c8d0bc09667a24fee5f653ba9112b4) - immutably state
+
 ## Learned
 
 #### 09.10.2018 — redux-start
@@ -35,6 +37,9 @@ I learned what a [action](#action) is
 
 I learned what a [subscribe](#subscribe) is
 
+#### 10.10.2018 — redux-start
+
+I learned why need to use [immutably](#immutably) state
 
 ### Definitions
 
@@ -47,6 +52,10 @@ I learned what a [subscribe](#subscribe) is
 <a name="action"></a>Action - These are the structures that transfer data from your application to the repository. They are the only sources of information for the repository. You send them to the store using the **store.dispatch()** method.
 
 <a name="subscribe"></a>Subscribe - Return state of store. For this we must use **store.subscribe()**
+
+#### 10.10.2018 — redux-start
+
+<a name="immutably"></a>Immutably state - This is the preservation of the immutability of the original state, but the change and return of its copy. For this use 2 method - **'...'** and **Object.assign()**
 
 ## Questions
 
