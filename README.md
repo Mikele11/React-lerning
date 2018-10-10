@@ -25,6 +25,8 @@
 
 [immutably state](https://github.com/Mikele11/React-lerning/commit/93a5a77088c8d0bc09667a24fee5f653ba9112b4) - immutably state
 
+[delete immutably](https://github.com/Mikele11/React-lerning/commit/a32cf01366fbaffae0cd257fa5073ffa1f3ca0b3) - delete immutably
+
 ## Learned
 
 #### 09.10.2018 — redux-start
