@@ -17,6 +17,8 @@
 
 [connect store to reactt](https://github.com/Mikele11/React-lerning/commit/a76b0d6c70926202962056f3d0baa23443508777) - connect store to react
 
+[dispatching increment](https://github.com/Mikele11/React-lerning/commit/c5b6ac15921fe77621ff88c1279ce27a0878881e) - dispatching increment
+
 ## Learned
 
 #### 09.10.2018 — redux-start
