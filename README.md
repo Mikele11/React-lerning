@@ -121,6 +121,9 @@
 
 [fix output validation](https://github.com/Mikele11/React-lerning/commit/82ebcf51eef3ac60effed9b4e463e273ce7755d4) - fix output validation
 
+#### 10.10.2018 — burger-builder
+
+[install redux to project](https://github.com/Mikele11/React-lerning/commit/94d8699f6bf90eafe3ae91617bcefc944b068c89) - install redux to project
 
 ## Learned
 
