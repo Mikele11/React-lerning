@@ -10,6 +10,11 @@
 [dispatching action](https://github.com/Mikele11/React-lerning/commit/2561cdf2fd8aca41c3887c21132a73317af32ed4) - dispatching action
 
 [subscribe](https://github.com/Mikele11/React-lerning/commit/cfc5c45b05a40b4995682ee52c9dc9eaf9fbbf83) - subscribe
+
+#### 10.10.2018 — redux-start
+
+[connect redux to react](https://github.com/Mikele11/React-lerning/commit/977d39c411359c02685365a4cf28f56bfeab6792) - connect redux to react
+
 ## Learned
 
 #### 09.10.2018 — redux-start
@@ -21,6 +26,7 @@ I learned what a [reducers](#reducers) is
 I learned what a [action](#action) is
 
 I learned what a [subscribe](#subscribe) is
+
 
 ### Definitions
 
