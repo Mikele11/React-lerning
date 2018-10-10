@@ -19,6 +19,8 @@
 
 [dispatching increment](https://github.com/Mikele11/React-lerning/commit/c5b6ac15921fe77621ff88c1279ce27a0878881e) - dispatching increment
 
+[add other reducer](https://github.com/Mikele11/React-lerning/commit/e1ebebcd0327d58430039946d6346dfa324ffa75) - add other reducer
+
 ## Learned
 
 #### 09.10.2018 — redux-start
