@@ -29,6 +29,8 @@
 
 [outsoursing action](https://github.com/Mikele11/React-lerning/commit/2ad54fea86b7d3668ceac46be92d60b63c03476e) - outsoursing action
 
+[multiple reducers](https://github.com/Mikele11/React-lerning/commit/a125cf5d18ab5c8121d0b161f8f36d71fcac6049) - multiple reducers
+
 ## Learned
 
 #### 09.10.2018 — redux-start
