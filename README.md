@@ -127,6 +127,8 @@
 
 [redux basics setup](https://github.com/Mikele11/React-lerning/commit/1b798f8f88554ccedf2bacb50c51078a3e11e250) - redux basics setup
 
+[finishing reducers](https://github.com/Mikele11/React-lerning/commit/ef75addfdc3cfdab536220df80a6feda9e99a573) - finishing reducers
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
