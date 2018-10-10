@@ -121,6 +121,17 @@
 
 [fix output validation](https://github.com/Mikele11/React-lerning/commit/82ebcf51eef3ac60effed9b4e463e273ce7755d4) - fix output validation
 
+#### 10.10.2018 — burger-builder
+
+[install redux to project](https://github.com/Mikele11/React-lerning/commit/94d8699f6bf90eafe3ae91617bcefc944b068c89) - install redux to project
+
+[redux basics setup](https://github.com/Mikele11/React-lerning/commit/1b798f8f88554ccedf2bacb50c51078a3e11e250) - redux basics setup
+
+[finishing reducers](https://github.com/Mikele11/React-lerning/commit/ef75addfdc3cfdab536220df80a6feda9e99a573) - finishing reducers
+
+[total price reducer](https://github.com/Mikele11/React-lerning/commit/dca932aff079d0ad4891754169390d0d46c19c9e) - total price reducer
+
+[redux to checkout and contact data](https://github.com/Mikele11/React-lerning/commit/d34a7fd16a8116cae7d54a984881bd37eae79adb) - redux to checkout and contact data
 
 ## Learned
 
