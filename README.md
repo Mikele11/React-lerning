@@ -129,6 +129,8 @@
 
 [finishing reducers](https://github.com/Mikele11/React-lerning/commit/ef75addfdc3cfdab536220df80a6feda9e99a573) - finishing reducers
 
+[total price reducer](https://github.com/Mikele11/React-lerning/commit/dca932aff079d0ad4891754169390d0d46c19c9e) - total price reducer
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
