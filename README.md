@@ -41,6 +41,8 @@
 
 [sync action creators](https://github.com/Mikele11/React-lerning/commit/9637fb502e9750ab8711e3ea468bb795faa4f68a) - sync action creators
 
+[async handling](https://github.com/Mikele11/React-lerning/commit/ebae6f298f3b02faeaa3400b1b436b8f19cf6a19) - async handling
+
 ## Learned
 
 #### 09.10.2018 — redux-start
