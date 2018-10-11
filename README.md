@@ -137,6 +137,8 @@
 
 [add async action ingredients](https://github.com/Mikele11/React-lerning/commit/98333b926857921c5a498c3544b37a27ec8b794f) - add async action ingredients
 
+[add order action](https://github.com/Mikele11/React-lerning/commit/397c57ae5dfa2fdd75e80d7910a7e493d56ad9b0) - add order action
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
