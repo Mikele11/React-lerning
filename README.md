@@ -133,6 +133,10 @@
 
 [redux to checkout and contact data](https://github.com/Mikele11/React-lerning/commit/d34a7fd16a8116cae7d54a984881bd37eae79adb) - redux to checkout and contact data
 
+#### 11.10.2018 — burger-builder
+
+[add async action ingredients](https://github.com/Mikele11/React-lerning/commit/98333b926857921c5a498c3544b37a27ec8b794f) - add async action ingredients
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
