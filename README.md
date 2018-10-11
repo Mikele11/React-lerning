@@ -43,6 +43,8 @@
 
 [async handling](https://github.com/Mikele11/React-lerning/commit/ebae6f298f3b02faeaa3400b1b436b8f19cf6a19) - async handling
 
+[restructuring action](https://github.com/Mikele11/React-lerning/commit/3d6bdf55bb799dfe4d2e8c3fd5e5db7a530b4ac2) - restructuring action
+
 ## Learned
 
 #### 09.10.2018 — redux-start
