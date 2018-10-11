@@ -147,6 +147,8 @@
 
 [redirect to ux](https://github.com/Mikele11/React-lerning/commit/6d689df169bd5158230b9f95bb154b4a36c6ae9f) - redirect to ux
 
+[combine reducers](https://github.com/Mikele11/React-lerning/commit/8407d04dd04b39610ab812cf2060d261e48a516e) - combine reducers
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
