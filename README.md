@@ -33,6 +33,10 @@
 
 [adding middleware](https://github.com/Mikele11/React-lerning/commit/3f6575653aa2d26c13619bbec6647e7aa55de6d2) - adding middleware
 
+#### 11.10.2018 — redux-start
+
+[adding dev tools](https://github.com/Mikele11/React-lerning/commit/3dbd692ed908fa20ba1b4cce48f14e154eae2a8d) - adding dev tools
+
 ## Learned
 
 #### 09.10.2018 — redux-start
