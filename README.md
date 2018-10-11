@@ -143,6 +143,8 @@
 
 [order reducer](https://github.com/Mikele11/React-lerning/commit/c8463e96fa175c959da7f29a51f596acc5758965) - order reducer
 
+[order action](https://github.com/Mikele11/React-lerning/commit/4b6f88ca26354057d62c8cf93bd74947d1955954) - order action
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
