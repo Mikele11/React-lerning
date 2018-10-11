@@ -139,6 +139,8 @@
 
 [add order action](https://github.com/Mikele11/React-lerning/commit/397c57ae5dfa2fdd75e80d7910a7e493d56ad9b0) - add order action
 
+[connect data container](https://github.com/Mikele11/React-lerning/commit/9e34b22cd020a1f54922bec7b283842fbcef5f81) - connect data container
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
