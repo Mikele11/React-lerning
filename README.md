@@ -145,6 +145,8 @@
 
 [order action](https://github.com/Mikele11/React-lerning/commit/4b6f88ca26354057d62c8cf93bd74947d1955954) - order action
 
+[redirect to ux](https://github.com/Mikele11/React-lerning/commit/6d689df169bd5158230b9f95bb154b4a36c6ae9f) - redirect to ux
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
