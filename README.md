@@ -39,6 +39,8 @@
 
 [action creators](https://github.com/Mikele11/React-lerning/commit/524444ccbdc40823c3c5c254fd1b2f57017b85c6) - action creators
 
+[sync action creators](https://github.com/Mikele11/React-lerning/commit/9637fb502e9750ab8711e3ea468bb795faa4f68a) - sync action creators
+
 ## Learned
 
 #### 09.10.2018 — redux-start
