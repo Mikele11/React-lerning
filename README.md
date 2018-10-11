@@ -37,6 +37,8 @@
 
 [adding dev tools](https://github.com/Mikele11/React-lerning/commit/3dbd692ed908fa20ba1b4cce48f14e154eae2a8d) - adding dev tools
 
+[action creators](https://github.com/Mikele11/React-lerning/commit/524444ccbdc40823c3c5c254fd1b2f57017b85c6) - action creators
+
 ## Learned
 
 #### 09.10.2018 — redux-start
