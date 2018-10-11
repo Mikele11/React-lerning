@@ -141,6 +141,8 @@
 
 [connect data container](https://github.com/Mikele11/React-lerning/commit/9e34b22cd020a1f54922bec7b283842fbcef5f81) - connect data container
 
+[order reducer](https://github.com/Mikele11/React-lerning/commit/c8463e96fa175c959da7f29a51f596acc5758965) - order reducer
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
