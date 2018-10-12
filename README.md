@@ -153,6 +153,7 @@
 
 [add auth](https://github.com/Mikele11/React-lerning/commit/cd09ca1efd214cf691cbe471b54923a7cb778aff) - add auth
 
+[protected orders](https://github.com/Mikele11/React-lerning/commit/00c86c16212e5f256e3792887f0c8a25666f4e1d) - protected orders
 ## Learned
 
 #### 01.10.2018 — burger-builder
