@@ -151,6 +151,8 @@
 
 [refactor reducer and orders](https://github.com/Mikele11/React-lerning/commit/490a8611de7a2dbf58ad66128ad2a4bed734501e) - refactor reducer and orders
 
+[add auth](https://github.com/Mikele11/React-lerning/commit/cd09ca1efd214cf691cbe471b54923a7cb778aff) - add auth
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
