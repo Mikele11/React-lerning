@@ -149,6 +149,8 @@
 
 [combine reducers](https://github.com/Mikele11/React-lerning/commit/8407d04dd04b39610ab812cf2060d261e48a516e) - combine reducers
 
+[refactor reducer and orders](https://github.com/Mikele11/React-lerning/commit/490a8611de7a2dbf58ad66128ad2a4bed734501e) - refactor reducer and orders
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
