@@ -33,6 +33,18 @@
 
 [adding middleware](https://github.com/Mikele11/React-lerning/commit/3f6575653aa2d26c13619bbec6647e7aa55de6d2) - adding middleware
 
+#### 11.10.2018 — redux-start
+
+[adding dev tools](https://github.com/Mikele11/React-lerning/commit/3dbd692ed908fa20ba1b4cce48f14e154eae2a8d) - adding dev tools
+
+[action creators](https://github.com/Mikele11/React-lerning/commit/524444ccbdc40823c3c5c254fd1b2f57017b85c6) - action creators
+
+[sync action creators](https://github.com/Mikele11/React-lerning/commit/9637fb502e9750ab8711e3ea468bb795faa4f68a) - sync action creators
+
+[async handling](https://github.com/Mikele11/React-lerning/commit/ebae6f298f3b02faeaa3400b1b436b8f19cf6a19) - async handling
+
+[restructuring action](https://github.com/Mikele11/React-lerning/commit/3d6bdf55bb799dfe4d2e8c3fd5e5db7a530b4ac2) - restructuring action
+
 ## Learned
 
 #### 09.10.2018 — redux-start
