@@ -156,6 +156,8 @@
 [protected orders](https://github.com/Mikele11/React-lerning/commit/00c86c16212e5f256e3792887f0c8a25666f4e1d) - protected orders
 
 [finished auth](https://github.com/Mikele11/React-lerning/commit/9984b8ec86db1ec186bdf9dbb5572057df5e1be0) - finished auth
+
+[envoiment var](https://github.com/Mikele11/React-lerning/commit/4d48aa90c0e70ac9116552bfa30bd4865366f93a) - envoiment var
 ## Learned
 
 #### 01.10.2018 — burger-builder
