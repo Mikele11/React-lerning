@@ -160,6 +160,8 @@
 [envoiment var](https://github.com/Mikele11/React-lerning/commit/4d48aa90c0e70ac9116552bfa30bd4865366f93a) - envoiment var
 
 [lazy loading](https://github.com/Mikele11/React-lerning/commit/7e5ff2deeb06702dc1933e0809d50581d0ba6b44) - lazy loading
+
+[testing component](https://github.com/Mikele11/React-lerning/commit/9d6c813b4374115a5b9b39e491f7c9adc924b96e) - testing component
 ## Learned
 
 #### 01.10.2018 — burger-builder
