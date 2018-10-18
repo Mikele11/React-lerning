@@ -164,6 +164,8 @@
 [testing component](https://github.com/Mikele11/React-lerning/commit/9d6c813b4374115a5b9b39e491f7c9adc924b96e) - testing component
 
 [testing containers](https://github.com/Mikele11/React-lerning/commit/c7ab379da2a2b6a526a25d1b5097d26e1da85ea2) - testing containers
+
+[testing reducers](https://github.com/Mikele11/React-lerning/commit/202d2348951fbb0a5d736a56fb62bba9d306e5c0) - testing reducers
 ## Learned
 
 #### 01.10.2018 — burger-builder
