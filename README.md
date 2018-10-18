@@ -162,6 +162,8 @@
 [lazy loading](https://github.com/Mikele11/React-lerning/commit/7e5ff2deeb06702dc1933e0809d50581d0ba6b44) - lazy loading
 
 [testing component](https://github.com/Mikele11/React-lerning/commit/9d6c813b4374115a5b9b39e491f7c9adc924b96e) - testing component
+
+[testing containers](https://github.com/Mikele11/React-lerning/commit/c7ab379da2a2b6a526a25d1b5097d26e1da85ea2) - testing containers
 ## Learned
 
 #### 01.10.2018 — burger-builder
