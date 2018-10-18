@@ -133,6 +133,39 @@
 
 [redux to checkout and contact data](https://github.com/Mikele11/React-lerning/commit/d34a7fd16a8116cae7d54a984881bd37eae79adb) - redux to checkout and contact data
 
+#### 11.10.2018 — burger-builder
+
+[add async action ingredients](https://github.com/Mikele11/React-lerning/commit/98333b926857921c5a498c3544b37a27ec8b794f) - add async action ingredients
+
+[add order action](https://github.com/Mikele11/React-lerning/commit/397c57ae5dfa2fdd75e80d7910a7e493d56ad9b0) - add order action
+
+[connect data container](https://github.com/Mikele11/React-lerning/commit/9e34b22cd020a1f54922bec7b283842fbcef5f81) - connect data container
+
+[order reducer](https://github.com/Mikele11/React-lerning/commit/c8463e96fa175c959da7f29a51f596acc5758965) - order reducer
+
+[order action](https://github.com/Mikele11/React-lerning/commit/4b6f88ca26354057d62c8cf93bd74947d1955954) - order action
+
+[redirect to ux](https://github.com/Mikele11/React-lerning/commit/6d689df169bd5158230b9f95bb154b4a36c6ae9f) - redirect to ux
+
+[combine reducers](https://github.com/Mikele11/React-lerning/commit/8407d04dd04b39610ab812cf2060d261e48a516e) - combine reducers
+
+[refactor reducer and orders](https://github.com/Mikele11/React-lerning/commit/490a8611de7a2dbf58ad66128ad2a4bed734501e) - refactor reducer and orders
+
+[add auth](https://github.com/Mikele11/React-lerning/commit/cd09ca1efd214cf691cbe471b54923a7cb778aff) - add auth
+
+[protected orders](https://github.com/Mikele11/React-lerning/commit/00c86c16212e5f256e3792887f0c8a25666f4e1d) - protected orders
+
+[finished auth](https://github.com/Mikele11/React-lerning/commit/9984b8ec86db1ec186bdf9dbb5572057df5e1be0) - finished auth
+
+[envoiment var](https://github.com/Mikele11/React-lerning/commit/4d48aa90c0e70ac9116552bfa30bd4865366f93a) - envoiment var
+
+[lazy loading](https://github.com/Mikele11/React-lerning/commit/7e5ff2deeb06702dc1933e0809d50581d0ba6b44) - lazy loading
+
+[testing component](https://github.com/Mikele11/React-lerning/commit/9d6c813b4374115a5b9b39e491f7c9adc924b96e) - testing component
+
+[testing containers](https://github.com/Mikele11/React-lerning/commit/c7ab379da2a2b6a526a25d1b5097d26e1da85ea2) - testing containers
+
+[testing reducers](https://github.com/Mikele11/React-lerning/commit/202d2348951fbb0a5d736a56fb62bba9d306e5c0) - testing reducers
 ## Learned
 
 #### 01.10.2018 — burger-builder
