@@ -8,6 +8,8 @@
 
 [injection html](https://github.com/Mikele11/React-lerning/commit/1fefa8aab99c24fdd82f3e9167fd5ae108ba7ddb) - injection html
 
+[make bundle](https://github.com/Mikele11/React-lerning/commit/c55537cc04f8137c4dbc8a5be7758e90658c12f7) - make bundle
+
 ## Learned
 
 #### 18.10.2018 — webpack-pizza
