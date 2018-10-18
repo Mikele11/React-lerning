@@ -51,9 +51,9 @@
 
 I learned what a [store](#store) is
 
-I learned what a [reducers](#reducers) is
+I learned what a [reducers](#reducers) is and for what use
 
-I learned what a [action](#action) is
+I learned what a [action](#action) is and how to use it
 
 I learned what a [subscribe](#subscribe) is
 
@@ -65,17 +65,29 @@ I learned why need to use [immutably](#immutably) state
 
 #### 09.10.2018 — redux-start
 
-<a name="store"></a>Store - The Store have the entire state tree of your application. The only way to change the state inside it is to dispatch action to it.
+<a name="store"></a>Store - The Store have the entire state tree of your application. The only way to change the state inside it is to dispatch action to it. Store only stores all the states that we sent him. We can imagine this like a letterbox.
 
-<a name="reducers"></a>Reducers - this is pure functions that return a state. Reducers update state depending on what reducers is called.
+<a name="reducers"></a>Reducer - this is pure functions that return a state. Reducer update state depending on what reducer is called. If you just say that the reducer function that responds to sending the action in the store. Reducer reads aсtion and returns the state or more precisely a copy of the state. Like example this code 
 
-<a name="action"></a>Action - These are the structures that transfer data from your application to the repository. They are the only sources of information for the repository. You send them to the store using the **store.dispatch()** method.
+          *function playlist(state = [], action) {
+            if (action.type === 'ADD') {
+              return [
+                ...state,
+                action.payload
+              ]
+            }
+            return state;
+          }*
+Reducer playlist take in yourself state and action. At first function read ac action.type and if action.type === 'ADD' we add  action.payload to state and return copy state.   
 
-<a name="subscribe"></a>Subscribe - Return state of store. For this we must use **store.subscribe()**
+
+<a name="action"></a>Action - These are the structures that transfer data from your application to the repository. They are the only sources of information for the repository. You send them to the store using the **store.dispatch()** method. If there are calls to api then they are done in action. Good practice is to put types into a separate file like **actionTypes** and there assign type to constants.
+
+<a name="subscribe"></a>Subscribe - Return state of store. For this we must use **store.subscribe()**. This function is like a bell - lets us know if it has changed. Like eample this code *store.subscribe(() => {console.log(store.getState());})* return store when something change in the store.
 
 #### 10.10.2018 — redux-start
 
-<a name="immutably"></a>Immutably state - This is the preservation of the immutability of the original state, but the change and return of its copy. For this use 2 method - **'...'** and **Object.assign()**
+<a name="immutably"></a>Immutably state - This is the preservation of the immutability of the original state, but the change and return of its copy. For this use 2 method - **'...'** and **Object.assign()**. Immunity gives us advantages, for example, you can simply return to the previous state, because we are creating a copy, and not changing the previous variable
 
 ## Questions
 
