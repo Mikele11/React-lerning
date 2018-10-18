@@ -69,7 +69,7 @@ I learned why need to use [immutably](#immutably) state
 
 <a name="reducers"></a>Reducer - this is pure functions that return a state. Reducer update state depending on what reducer is called. If you just say that the reducer function that responds to sending the action in the store. Reducer reads aсtion and returns the state or more precisely a copy of the state. Like example this code 
 
-          *function playlist(state = [], action) {
+          function playlist(state = [], action) {
             if (action.type === 'ADD') {
               return [
                 ...state,
@@ -77,7 +77,7 @@ I learned why need to use [immutably](#immutably) state
               ]
             }
             return state;
-          }*
+          }
 Reducer playlist take in yourself state and action. At first function read ac action.type and if action.type === 'ADD' we add  action.payload to state and return copy state.   
 
 
