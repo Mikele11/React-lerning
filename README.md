@@ -9,6 +9,8 @@
 
 [transiton group](https://github.com/Mikele11/React-lerning/commit/59e46e2863327cd0f16ce5c9d569891080295d56) - transiton group
 
+[css transiton](https://github.com/Mikele11/React-lerning/commit/083ad4ae1794376cb6afadb15e40dd5e3d8a61dd) - css transiton
+
 ## Learned
 
 #### 19.10.2018 — animation
