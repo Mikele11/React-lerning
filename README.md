@@ -166,6 +166,11 @@
 [testing containers](https://github.com/Mikele11/React-lerning/commit/c7ab379da2a2b6a526a25d1b5097d26e1da85ea2) - testing containers
 
 [testing reducers](https://github.com/Mikele11/React-lerning/commit/202d2348951fbb0a5d736a56fb62bba9d306e5c0) - testing reducers
+
+#### 19.10.2018 — burger-builder
+
+[add logout saga](https://github.com/Mikele11/React-lerning/commit/826e0857d8e9e547a3dff8f1826e98980d93f10b) - add logout saga
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
