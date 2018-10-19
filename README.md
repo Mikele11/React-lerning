@@ -11,6 +11,8 @@
 
 [css transiton](https://github.com/Mikele11/React-lerning/commit/083ad4ae1794376cb6afadb15e40dd5e3d8a61dd) - css transiton
 
+[list css](https://github.com/Mikele11/React-lerning/commit/17a92282d0cc96943af223085972c8e560424f54) - list css
+
 ## Learned
 
 #### 19.10.2018 — animation
