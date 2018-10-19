@@ -12,6 +12,8 @@
 
 [error handling](https://github.com/Mikele11/React-lerning/commit/04ce2ed98db1f41c468157d3dcb658393f992561) - error handling
 
+[finish auth](https://github.com/Mikele11/React-lerning/commit/49c215c28f9c42f053087d7a85578a4b9277e485) - finish auth
+
 ## Learned
 
 #### 19.10.2018 — next
