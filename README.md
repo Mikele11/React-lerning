@@ -10,6 +10,8 @@
 
 [add user](https://github.com/Mikele11/React-lerning/commit/2c907cb712b90c3c12452244d0d581021c89eeac) - add user
 
+[error handling](https://github.com/Mikele11/React-lerning/commit/04ce2ed98db1f41c468157d3dcb658393f992561) - error handling
+
 ## Learned
 
 #### 19.10.2018 — next
