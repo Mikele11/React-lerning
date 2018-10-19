@@ -1,4 +1,21 @@
 'use strict';
 
-module.exports = require('next\\dist\\lib\\error.js');
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIm5vZGVfbW9kdWxlc1xcbmV4dFxcZGlzdFxccGFnZXNcXF9lcnJvci5qcyJdLCJuYW1lcyI6WyJtb2R1bGUiLCJleHBvcnRzIiwicmVxdWlyZSJdLCJtYXBwaW5ncyI6Ijs7QUFBQSxPQUFPLEFBQVAsVUFBaUIsQUFBakIiLCJmaWxlIjoiX2Vycm9yLmpzP2VudHJ5Iiwic291cmNlUm9vdCI6IkM6L0xlYXJuL1JlYWN0L3VkZW15LzE5L3VkZW15In0=
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _react = require('react');
+
+var _react2 = _interopRequireDefault(_react);
+
+var _link = require('next\\dist\\lib\\link.js');
+
+var _link2 = _interopRequireDefault(_link);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+var errorPage = function errorPage() {
+    return _react2.default.createElement('div', null, _react2.default.createElement('h1', null, 'Oops, something went wrong.'), _react2.default.createElement('p', null, 'Try ', _react2.default.createElement(_link2.default, { href: '/' }, _react2.default.createElement('a', null, 'going back')), '.'));
+};
+
+exports.default = errorPage;

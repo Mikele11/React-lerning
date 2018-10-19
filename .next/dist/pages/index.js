@@ -4,6 +4,30 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
+var _promise = require("babel-runtime/core-js/promise");
+
+var _promise2 = _interopRequireDefault(_promise);
+
+var _getPrototypeOf = require("babel-runtime/core-js/object/get-prototype-of");
+
+var _getPrototypeOf2 = _interopRequireDefault(_getPrototypeOf);
+
+var _classCallCheck2 = require("babel-runtime/helpers/classCallCheck");
+
+var _classCallCheck3 = _interopRequireDefault(_classCallCheck2);
+
+var _createClass2 = require("babel-runtime/helpers/createClass");
+
+var _createClass3 = _interopRequireDefault(_createClass2);
+
+var _possibleConstructorReturn2 = require("babel-runtime/helpers/possibleConstructorReturn");
+
+var _possibleConstructorReturn3 = _interopRequireDefault(_possibleConstructorReturn2);
+
+var _inherits2 = require("babel-runtime/helpers/inherits");
+
+var _inherits3 = _interopRequireDefault(_inherits2);
+
 var _react = require("react");
 
 var _react2 = _interopRequireDefault(_react);
@@ -18,42 +42,35 @@ var _index2 = _interopRequireDefault(_index);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = "C:\\Learn\\React\\udemy\\19\\udemy\\pages\\index.js?entry";
+var IndexPage = function (_Component) {
+  (0, _inherits3.default)(IndexPage, _Component);
 
+  function IndexPage() {
+    (0, _classCallCheck3.default)(this, IndexPage);
 
-var indexPage = function indexPage() {
-  return _react2.default.createElement("div", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 6
-    }
-  }, _react2.default.createElement("h1", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    }
-  }, "The Main Page"), _react2.default.createElement("p", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    }
-  }, "Go To ", _react2.default.createElement(_link2.default, { href: "/auth", __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    }
-  }, _react2.default.createElement("a", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    }
-  }, "Auth"))), _react2.default.createElement("button", { onClick: function onClick() {
-      return _index2.default.push("/auth");
-    }, __source: {
-      fileName: _jsxFileName,
-      lineNumber: 9
-    }
-  }, "Go to Auth"));
-};
+    return (0, _possibleConstructorReturn3.default)(this, (IndexPage.__proto__ || (0, _getPrototypeOf2.default)(IndexPage)).apply(this, arguments));
+  }
 
-exports.default = indexPage;
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzXFxpbmRleC5qcyJdLCJuYW1lcyI6WyJSZWFjdCIsIkxpbmsiLCJSb3V0ZXIiLCJpbmRleFBhZ2UiLCJwdXNoIl0sIm1hcHBpbmdzIjoiOzs7Ozs7QUFBQSxBQUFPOzs7O0FBQ1AsQUFBTzs7OztBQUNQLEFBQU87Ozs7Ozs7OztBQUVQLElBQU0sWUFBWSxTQUFaLEFBQVksWUFBQTt5QkFDaEIsY0FBQTs7Z0JBQUE7a0JBQUEsQUFDRTtBQURGO0FBQUEsR0FBQSxrQkFDRSxjQUFBOztnQkFBQTtrQkFBQTtBQUFBO0FBQUEsS0FERixBQUNFLEFBQ0Esa0NBQUEsY0FBQTs7Z0JBQUE7a0JBQUE7QUFBQTtBQUFBLEtBQVMsMEJBQUEsQUFBQyxnQ0FBSyxNQUFOLEFBQVc7Z0JBQVg7a0JBQUEsQUFBbUI7QUFBbkI7cUJBQW1CLGNBQUE7O2dCQUFBO2tCQUFBO0FBQUE7QUFBQSxLQUY5QixBQUVFLEFBQVMsQUFBbUIsQUFDNUIsMkJBQUEsY0FBQSxZQUFRLFNBQVMsbUJBQUE7YUFBTSxnQkFBQSxBQUFPLEtBQWIsQUFBTSxBQUFZO0FBQW5DO2dCQUFBO2tCQUFBO0FBQUE7S0FKYyxBQUNoQixBQUdFO0FBSkosQUFRQTs7a0JBQUEsQUFBZSIsImZpbGUiOiJpbmRleC5qcz9lbnRyeSIsInNvdXJjZVJvb3QiOiJDOi9MZWFybi9SZWFjdC91ZGVteS8xOS91ZGVteSJ9
+  (0, _createClass3.default)(IndexPage, [{
+    key: "render",
+    value: function render() {
+      return _react2.default.createElement("div", null, _react2.default.createElement("h1", null, "The Main Page of ", this.props.appName), _react2.default.createElement("p", null, "Go to", " ", _react2.default.createElement(_link2.default, { href: "/auth" }, _react2.default.createElement("a", null, "Auth"))), _react2.default.createElement("button", { onClick: function onClick() {
+          return _index2.default.push("/auth");
+        } }, "Go to Auth"));
+    }
+  }], [{
+    key: "getInitialProps",
+    value: function getInitialProps(context) {
+      var promise = new _promise2.default(function (resolve, reject) {
+        setTimeout(function () {
+          resolve({ appName: "Super App" });
+        }, 1000);
+      });
+      return promise;
+    }
+  }]);
+
+  return IndexPage;
+}(_react.Component);
+
+exports.default = IndexPage;
