@@ -4,6 +4,7 @@
 
 #### 19.10.2018 — next
 
+[start page](https://github.com/Mikele11/React-lerning/commit/4c572d450245145b0a92d28c85df6029e00011f5) - start page
 
 ## Learned
 
