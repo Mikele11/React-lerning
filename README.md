@@ -17,6 +17,11 @@
 
 #### 19.10.2018 — animation
 
+I learned how to use animation in js. 
+
+How to use modal windows.
+
+What modules react-transition-group is.
 
 ### Definitions
 
