@@ -18,11 +18,13 @@
 
 #### 19.10.2018 — next
 
+I learned how to use the module [next](#next)
 
 ### Definitions
 
 #### 19.10.2018 — next
 
+<a name="next"></a>Next - Next.js is a lightweight framework for static and processed by the React application server. Site pages are in a folder **pages**
 
 ## Questions
 
