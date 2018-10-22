@@ -176,10 +176,17 @@
 #### 01.10.2018 — burger-builder
 
 
+#### 19.10.2018 — burger-builder
+
+What is redux-saga and how use operator yield 
+
 ### Definitions
 
 #### 01.10.2018 — burger-builder
 
+#### 19.10.2018 — burger-builder
+
+<a name="yield"></a>Yield - This word specifies that the iterator should return after the next call to the **next()** method. Yield use in functions generators, which are indicated by "*"  after the function keyword
 
 ## Questions
 
