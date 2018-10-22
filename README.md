@@ -175,6 +175,8 @@
 
 [move more logic to saga](https://github.com/Mikele11/React-lerning/commit/d869c8b59346805fcc378caf8ff704801b95c818) - move more logic to saga
 
+[yandling authenticatiom with saga](https://github.com/Mikele11/React-lerning/commit/90669c9a6d6a085640e26085e8fb489efcdc8440) - yandling authenticatiom with saga
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
