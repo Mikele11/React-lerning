@@ -173,6 +173,8 @@
 
 [move logic to saga](https://github.com/Mikele11/React-lerning/commit/68cc6c1caff68a39ec775cfe27c2a542d97355b1) - move logic to saga
 
+[move more logic to saga](https://github.com/Mikele11/React-lerning/commit/d869c8b59346805fcc378caf8ff704801b95c818) - move more logic to saga
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
