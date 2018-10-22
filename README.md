@@ -14,6 +14,7 @@
 
 #### 18.10.2018 — webpack-pizza
 
+I learned what a webpack is and why it is used, as well as how to work with css and pictures in a webpack.
 
 ### Definitions
 
