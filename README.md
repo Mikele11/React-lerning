@@ -171,6 +171,8 @@
 
 [add logout saga](https://github.com/Mikele11/React-lerning/commit/826e0857d8e9e547a3dff8f1826e98980d93f10b) - add logout saga
 
+[move logic to saga](https://github.com/Mikele11/React-lerning/commit/68cc6c1caff68a39ec775cfe27c2a542d97355b1) - move logic to saga
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
