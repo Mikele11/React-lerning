@@ -177,6 +177,8 @@
 
 [yandling authenticatiom with saga](https://github.com/Mikele11/React-lerning/commit/90669c9a6d6a085640e26085e8fb489efcdc8440) - yandling authenticatiom with saga
 
+[sign in with saga](https://github.com/Mikele11/React-lerning/commit/370bbdbc0f5268b2e71b658dcf9e9d8a4a363fd2) - sign in with saga
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
