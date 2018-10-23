@@ -179,6 +179,8 @@
 
 [sign in with saga](https://github.com/Mikele11/React-lerning/commit/370bbdbc0f5268b2e71b658dcf9e9d8a4a363fd2) - sign in with saga
 
+[move side effect to saga](https://github.com/Mikele11/React-lerning/commit/8b5a93675965eb4ee3a8d2a3258d0e54ccab6ec5) - move side effect to saga
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
