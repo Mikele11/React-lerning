@@ -181,6 +181,8 @@
 
 [move side effect to saga](https://github.com/Mikele11/React-lerning/commit/8b5a93675965eb4ee3a8d2a3258d0e54ccab6ec5) - move side effect to saga
 
+[order creators](https://github.com/Mikele11/React-lerning/commit/197ca073f5fa7c9916298da63cff35e19c6e3f4d) - order creators
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
