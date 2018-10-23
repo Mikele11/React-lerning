@@ -183,6 +183,8 @@
 
 [order creators](https://github.com/Mikele11/React-lerning/commit/197ca073f5fa7c9916298da63cff35e19c6e3f4d) - order creators
 
+[additional to consider](https://github.com/Mikele11/React-lerning/commit/55b26d228de563c35ca61522a8a43586f3801615) - additional to consider
+
 ## Learned
 
 #### 01.10.2018 — burger-builder
